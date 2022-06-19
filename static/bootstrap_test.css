@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'Stint Ultra Expanded';
+    src: url('assets/css/stintultraexpanded-regular.woff2') format('woff2'),
+    url('assets/css/stintultraexpanded-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    
+}
+@font-face {
+    font-family: 'Bitter';
+    src: url('assets/css/bitter-regular.woff2') format('woff2'),
+    url('assets/css/bitter-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*===========================================================================*/
+
+/* Global stuff (of course, "unless specified otherwise") */
+body {  color: white;
+
+    /* Background image stuff */
+    height: 100%;
+    width: 100%;
+    background-color: #333;
+    background-image: url("assets/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    /* All text matter / Make text great again */
+    text-align: justify;
+}
+
+.container {   .border: 5px solid red;  
+}
+
+.row {   .border: 5px solid yellow;    
+}
+
+.col {   .border: 5px solid lawngreen;   
+}
+
+.bgcol {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+.navrow { 
+    background-color: rgb(32, 60, 63);
+    font-family: 'Stint Ultra Expanded', cursive;
+    font-weight: bold;
+    min-height: 37px;
+}
+
+@media screen and (min-width: 577px) {
+    .navrow {
+      font-size: 16px;
+    }
+    .d1 {
+        border-left: 1px solid rgb(153, 153, 153);
+        align-items: center;
+        padding-left: 5px;
+    }
+    h1 {
+        margin-top: 1cm;
+        margin-bottom: 0.45cm;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 2.25em;
+    }
+  }
+  
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+  @media screen and (max-width: 576px) {
+    .navrow {
+      .font-size: 14.3999991px;
+      font-size: 3.47vw;
+      padding-top: 0.275cm;
+      padding-bottom: 0.225cm;
+    }
+    .d1 {
+        border-left: 0px solid rgb(153, 153, 153);
+        align-items: left;
+        padding-left: 0px;
+    }
+    h1 {
+        margin-top: 1cm;
+        margin-bottom: 0.45cm;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 2.25em;
+        text-align: center;
+    }
+  }
+
+
+.btn {
+    height: 37px;
+    background-color: rgba(0,0,0,.1);
+    color: white;
+    font-size: 18px;
+}
+
+p {
+    margin-bottom: 0.45cm;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.media {
+    box-shadow: 0 0 1.5rem rgb(0, 0, 0);
+    width: 100%;
+    margin-top: 0.75cm;
+    margin-bottom: 0.75cm;
+    border: 1px solid #2c2c2c;
+    border-radius: 0px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card-deck > .card {
+    margin-top: 0.25cm;
+    margin-bottom: 0.55cm;
+    background-color: rgb(32, 60, 63);
+} 
