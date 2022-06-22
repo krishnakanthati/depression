@@ -210,8 +210,8 @@ $(function () {
         xhr.setRequestHeader("Access-Control-Allow-Headers", "Content-Type");
         console.log(JSON.stringify(req));
         xhr.send(JSON.stringify(req));
-        if (xhr.responseText == "[0]") window.location.replace("r0.html");
-        else if (xhr.responseText == "[1]") window.location.replace("r1.html");
+        if (xhr.responseText == "[0]") window.location.replace("r0");
+        else if (xhr.responseText == "[1]") window.location.replace("r1");
         else if (xhr.responseText == "[2]") window.location.replace("r2");
         else alert("Error, please try again.");
       } else {
