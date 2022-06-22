@@ -100,5 +100,15 @@ def r2():
     return render_template('r2.html')
 
 
+@app.route('/r1')
+def r1():
+    return render_template('r1.html')
+
+
+@app.route('/r0')
+def r0():
+    return render_template('r0.html')
+
+
 if __name__ == "__main__":
     app.run(debug=True)
