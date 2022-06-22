@@ -89,9 +89,15 @@ def get_data():
 def home():
     return render_template('index.html')
 
+
 @app.route('/quiz')
 def quiz():
     return render_template('quiz.html')
+
+
+@app.route('/r2')
+def r2():
+    return render_template('r2.html')
 
 
 if __name__ == "__main__":

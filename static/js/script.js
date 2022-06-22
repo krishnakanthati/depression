@@ -199,11 +199,11 @@ $(function () {
       if (questionNo + 1 > q.length) {
         var xhr = new XMLHttpRequest();
         console.log(req);
-        xhr.open("POST", "http://www.depression-screening.herokuapp.com/screen2", false);
+        xhr.open("POST", "http://depression-screening.herokuapp.com//screen2", false);
         xhr.setRequestHeader("Content-Type", "application/json");
         xhr.setRequestHeader(
           "Access-Control-Allow-Origin",
-          "http://www.depression-screening.herokuapp.com/screen2"
+          "http://depression-screening.herokuapp.com/screen2"
         );
         xhr.setRequestHeader("Access-Control-Allow-Credentials", "true");
         xhr.setRequestHeader("Access-Control-Allow-Methods", "POST");
@@ -212,7 +212,7 @@ $(function () {
         xhr.send(JSON.stringify(req));
         if (xhr.responseText == "[0]") window.location.replace("r0.html");
         else if (xhr.responseText == "[1]") window.location.replace("r1.html");
-        else if (xhr.responseText == "[2]") window.location.replace("r2.html");
+        else if (xhr.responseText == "[2]") window.location.replace("r2");
         else alert("Error, please try again.");
       } else {
         $("#qid").html(questionNo + 1);

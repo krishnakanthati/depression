@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Stint Ultra Expanded';
-    src: url('assets/css/stintultraexpanded-regular.woff2') format('woff2'),
-    url('assets/css/stintultraexpanded-regular.woff') format('woff');
+    src: url('../static/css/stintultraexpanded-regular.woff2') format('woff2'),
+    url('../static/css/stintultraexpanded-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     
 }
 @font-face {
     font-family: 'Bitter';
-    src: url('assets/css/bitter-regular.woff2') format('woff2'),
-    url('assets/css/bitter-regular.woff') format('woff');
+    src: url('../static/css/bitter-regular.woff2') format('woff2'),
+    url('../static/css/bitter-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

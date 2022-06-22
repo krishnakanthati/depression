@@ -68,7 +68,7 @@ def depressionencode(x):
     if x == 'Yes':
         return 2
     if x == 'Possibly':
-        return 1
+        return 2
     # Maybe or Probably has middle level
     else:
         return 1

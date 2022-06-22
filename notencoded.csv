@@ -1,418 +1,418 @@
-,interferes_with_work,prev_mental_disorder,if_it_interferes,Sought_Treatment,are_you_willing_to_share_with_friends,emphasis_on_physical_health,family_history_of_mental_health,medical_leave_for_depression,Number_of_employees_in_org,aware_of_importance,well_handled,mental_health_allowance,badly_handled,comfortable_direct_sup_previous,previous_help,Depression
-0,Sometimes,Yes,Rarely,1,3,8,Yes,Somewhat difficult,More than 1000,"No, I only became aware later","Yes, I observed",Yes,"Yes, I observed","No, none of my previous supervisors","No, none did",1
-1,Often,Yes,Sometimes,1,3,8,Yes,Somewhat difficult,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-2,Not applicable to me,No,Not applicable to me,0,2,3,Yes,Somewhat easy,6-25,"Yes, I was aware of all of them",Maybe/Not sure,Yes,No,"No, none of my previous supervisors","Yes, they all did",0
-3,Not applicable to me,No,Not applicable to me,0,9,8,No,Neither easy nor difficult,6-25,N/A (was not aware),Maybe/Not sure,No,No,"No, none of my previous supervisors","No, none did",0
-4,Sometimes,Yes,Rarely,1,7,7,Yes,Somewhat easy,26-100,N/A (none offered),"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,"No, none did",2
-5,Not applicable to me,Don't Know,No,0,No,1,No,Somewhat easy,100-500,Some did,No,Yes,5,Same level of comfort for each,1,2
-6,Often,Don't Know,Often,1,6,4,No,I don't know,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-7,Often,Yes,Sometimes,1,8,10,I don't know,I don't know,26-100,N/A (none offered),"Yes, I experienced",Not eligible for coverage / NA,No,I don't know,I don't know,2
-8,Often,Yes,Not applicable to me,0,2,10,Yes,I don't know,More than 1000,"No, I only became aware later",No,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,1
-9,Not applicable to me,Don't Know,Not applicable to me,0,5,3,No,Somewhat difficult,More than 1000,N/A (was not aware),No,Yes,"Yes, I observed","No, none of my previous supervisors",Some did,1
-10,Sometimes,Possibly,Rarely,1,8,6,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them",No,Yes,No,"No, none of my previous supervisors","Yes, they all did",2
-11,Often,Yes,Sometimes,1,7,6,I don't know,Very easy,500-1000,N/A (none offered),"Yes, I experienced",No,No,"No, none of my previous supervisors","No, none did",2
-12,Not applicable to me,No,Not applicable to me,0,4,1,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,0
-13,Sometimes,Possibly,Rarely,0,2,7,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,1
-14,Sometimes,Yes,Sometimes,1,8,6,No,Neither easy nor difficult,100-500,I was aware of some,No,No,No,Some of my previous supervisors,Some did,1
-15,Often,Yes,Sometimes,1,9,5,Yes,Somewhat difficult,6-25,N/A (was not aware),No,Yes,"Yes, I experienced","No, none of my previous supervisors",Some did,2
-16,Rarely,Yes,Rarely,0,8,6,Yes,Neither easy nor difficult,26-100,N/A (none offered),No,Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",2
-17,Often,Yes,Never,1,8,10,I don't know,I don't know,More than 1000,"No, I only became aware later","Yes, I observed",Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",2
-18,Not applicable to me,No,Not applicable to me,0,7,4,Yes,Difficult,500-1000,N/A (none offered),No,No,No,"No, none of my previous supervisors","No, none did",1
-19,Often,Yes,Sometimes,1,10,5,I don't know,Somewhat easy,More than 1000,N/A (none offered),No,Yes,Maybe/Not sure,Some of my previous supervisors,"No, none did",2
-20,Sometimes,Yes,Rarely,1,8,2,Yes,Somewhat easy,26-100,"Yes, I was aware of all of them","Yes, I experienced",Yes,No,Some of my previous supervisors,"Yes, they all did",2
-21,Often,Yes,Rarely,1,8,5,Yes,Somewhat easy,100-500,"Yes, I was aware of all of them",No,Yes,No,Some of my previous supervisors,"Yes, they all did",2
-22,Often,Yes,Rarely,1,9,5,Yes,Somewhat easy,More than 1000,N/A (was not aware),Maybe/Not sure,Yes,Maybe/Not sure,"Yes, all of my previous supervisors",I don't know,0
-23,Not applicable to me,Don't Know,Not applicable to me,1,6,4,I don't know,Very easy,100-500,I was aware of some,No,Yes,"Yes, I observed","No, none of my previous supervisors",Some did,1
-24,Not applicable to me,No,Not applicable to me,0,6,5,No,Somewhat difficult,6-25,N/A (was not aware),No,I don't know,No,I don't know,I don't know,0
-25,Often,Yes,Rarely,1,7,7,I don't know,Very easy,6-25,I was aware of some,Maybe/Not sure,No,Maybe/Not sure,Some of my previous supervisors,Some did,0
-26,Often,No,Often,0,5,5,No,Difficult,26-100,N/A (none offered),No,No,No,"No, none of my previous supervisors","No, none did",0
-27,Sometimes,Possibly,Rarely,0,5,8,I don't know,Somewhat easy,More than 1000,N/A (none offered),Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,"No, none did",1
-28,Rarely,Yes,Sometimes,1,9,5,Yes,Somewhat easy,More than 1000,"No, I only became aware later",No,Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",2
-29,Often,Yes,Yes,Possibly,8,5,1,Difficult,6-25,"No, none did",3,I don't know,No,Physical health,1,1
-30,Sometimes,Possibly,Not applicable to me,0,5,5,I don't know,Neither easy nor difficult,26-100,N/A (was not aware),No,Yes,Maybe/Not sure,"No, none of my previous supervisors",I don't know,1
-31,Not applicable to me,No,Not applicable to me,0,7,6,No,I don't know,100-500,N/A (none offered),No,I don't know,No,"No, none of my previous supervisors","No, none did",1
-32,Often,Don't Know,Not applicable to me,0,5,7,I don't know,Very easy,500-1000,N/A (none offered),"Yes, I observed",Yes,"Yes, I observed","No, none of my previous supervisors","No, none did",1
-33,Often,Yes,Not applicable to me,1,2,7,Yes,I don't know,More than 1000,I was aware of some,No,I don't know,No,Some of my previous supervisors,"No, none did",2
-34,Often,Yes,Often,1,2,6,No,Difficult,6-25,"Yes, I was aware of all of them",No,Not eligible for coverage / NA,"Yes, I observed","No, none of my previous supervisors",Some did,2
-35,Not applicable to me,No,Not applicable to me,0,8,7,I don't know,I don't know,6-25,I was aware of some,Maybe/Not sure,Yes,No,Some of my previous supervisors,I don't know,0
-36,Often,Yes,Sometimes,1,8,5,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-37,Not applicable to me,No,Not applicable to me,0,8,7,No,Somewhat easy,100-500,N/A (none offered),No,Yes,No,"No, none of my previous supervisors","No, none did",0
-38,Sometimes,Yes,Rarely,1,6,8,No,Neither easy nor difficult,26-100,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,1
-39,Sometimes,Possibly,Sometimes,0,8,5,No,Somewhat easy,More than 1000,I was aware of some,No,Yes,I've always been self-employed,Some of my previous supervisors,Some did,1
-40,Often,Yes,Sometimes,1,9,5,Yes,I don't know,26-100,N/A (was not aware),No,I don't know,Maybe/Not sure,"No, none of my previous supervisors",I don't know,2
-41,Often,Yes,Never,1,10,10,Yes,Very easy,More than 1000,I was aware of some,"Yes, I experienced",I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,2
-42,Not applicable to me,No,Not applicable to me,0,3,5,Yes,Somewhat easy,More than 1000,N/A (none offered),"Yes, I experienced",Yes,No,"Yes, all of my previous supervisors","No, none did",1
-43,Not applicable to me,Don't Know,Not applicable to me,0,4,5,I don't know,Somewhat easy,More than 1000,N/A (none offered),"Yes, I observed",Yes,I've always been self-employed,"Yes, all of my previous supervisors","No, none did",1
-44,Sometimes,Don't Know,Not applicable to me,0,0,5,I don't know,Somewhat difficult,26-100,N/A (was not aware),No,I don't know,No,"No, none of my previous supervisors",I don't know,1
-45,Often,Possibly,Rarely,1,8,9,Yes,Very easy,More than 1000,N/A (none offered),"Yes, I experienced",Yes,No,Some of my previous supervisors,"No, none did",2
-46,Not applicable to me,No,Not applicable to me,0,7,5,I don't know,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,No,"No, none of my previous supervisors",I don't know,0
-47,Not applicable to me,No,Not applicable to me,0,7,6,No,Difficult,26-100,N/A (was not aware),Maybe/Not sure,No,No,I don't know,"No, none did",1
-48,Sometimes,Yes,Rarely,0,10,8,No,Very easy,26-100,N/A (was not aware),"Yes, I experienced",No,No,"No, none of my previous supervisors",I don't know,1
-49,Sometimes,Yes,Never,1,8,2,No,Difficult,26-100,N/A (none offered),Maybe/Not sure,No,No,"No, none of my previous supervisors","No, none did",2
-50,Not applicable to me,No,Not applicable to me,0,0,10,Yes,Somewhat easy,More than 1000,N/A (none offered),No,I don't know,"Yes, I observed","No, none of my previous supervisors","No, none did",0
-51,Often,No,Sometimes,1,10,5,Yes,I don't know,100-500,"Yes, I was aware of all of them","Yes, I observed",Yes,No,Some of my previous supervisors,Some did,2
-52,Not applicable to me,No,Not applicable to me,0,5,7,Yes,Very easy,More than 1000,N/A (none offered),"Yes, I observed",Yes,No,Some of my previous supervisors,"No, none did",0
-53,Often,Yes,Rarely,1,10,5,Yes,Somewhat difficult,100-500,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-54,Often,Yes,Sometimes,1,7,10,Yes,Somewhat easy,500-1000,N/A (none offered),Maybe/Not sure,I don't know,"Yes, I experienced",Some of my previous supervisors,"No, none did",2
-55,Not applicable to me,No,Not applicable to me,0,5,7,No,I don't know,6-25,N/A (none offered),No,I don't know,Maybe/Not sure,I don't know,"No, none did",0
-56,Not applicable to me,Don't Know,Not applicable to me,1,10,5,I don't know,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,1
-57,Never,No,Rarely,0,5,7,No,Somewhat difficult,500-1000,I was aware of some,Maybe/Not sure,Yes,No,Some of my previous supervisors,Some did,0
-58,Sometimes,Possibly,Rarely,1,9,8,Yes,Very easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,0
-59,Rarely,Yes,Rarely,1,8,3,No,Somewhat easy,6-25,I was aware of some,No,I don't know,No,Some of my previous supervisors,"Yes, they all did",0
-60,Sometimes,Yes,Rarely,1,7,5,Yes,Somewhat easy,More than 1000,N/A (was not aware),"Yes, I observed",Yes,"Yes, I experienced",Some of my previous supervisors,I don't know,2
-61,Not applicable to me,No,Not applicable to me,0,3,5,No,Very easy,More than 1000,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,0
-62,Often,Yes,Rarely,1,5,5,No,I don't know,More than 1000,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,2
-63,Often,Yes,Often,1,7,5,Yes,Somewhat easy,More than 1000,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,"Yes, they all did",2
-64,Rarely,Possibly,Not applicable to me,0,5,10,I don't know,I don't know,26-100,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,1
-65,Often,Yes,Sometimes,1,5,8,Yes,I don't know,6-25,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,2
-66,Not applicable to me,No,Not applicable to me,0,4,4,No,Somewhat difficult,26-100,I was aware of some,"Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,Some did,0
-67,Often,Possibly,Sometimes,1,10,6,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-68,Often,No,Often,1,6,2,Yes,Somewhat easy,1-5,N/A (was not aware),Maybe/Not sure,No,"Yes, I experienced","Yes, all of my previous supervisors",I don't know,2
-69,Often,Yes,Often,1,1,5,I don't know,Somewhat difficult,500-1000,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,2
-70,Not applicable to me,No,Not applicable to me,0,8,3,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,No,"Yes, all of my previous supervisors",Some did,0
-71,Not applicable to me,No,Not applicable to me,0,6,3,No,Difficult,6-25,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,1
-72,Often,Yes,Rarely,1,9,5,Yes,Somewhat easy,More than 1000,N/A (none offered),Maybe/Not sure,Yes,"Yes, I observed",Some of my previous supervisors,"No, none did",2
-73,Often,Yes,Sometimes,1,2,5,I don't know,Somewhat easy,6-25,N/A (was not aware),No,I don't know,Maybe/Not sure,"No, none of my previous supervisors",I don't know,2
-74,Not applicable to me,No,Not applicable to me,0,7,4,No,Somewhat difficult,6-25,N/A (none offered),Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,"No, none did",0
-75,Sometimes,No,Sometimes,0,2,7,No,Very easy,6-25,N/A (was not aware),Maybe/Not sure,Yes,No,I don't know,"No, none did",0
-76,Often,Yes,Rarely,1,10,6,I don't know,Neither easy nor difficult,100-500,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed","No, none of my previous supervisors",Some did,2
-77,Often,Yes,Never,1,10,5,Yes,I don't know,100-500,I was aware of some,No,Yes,"Yes, I experienced","No, none of my previous supervisors",Some did,2
-78,Not applicable to me,No,Not applicable to me,0,8,5,No,Very easy,26-100,"Yes, I was aware of all of them",No,Yes,No,Some of my previous supervisors,"Yes, they all did",0
-79,Often,Yes,Sometimes,1,8,7,Yes,I don't know,More than 1000,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,2
-80,Not applicable to me,No,Not applicable to me,0,1,7,No,Somewhat easy,More than 1000,"Yes, I was aware of all of them","Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,0
-81,Sometimes,Yes,Rarely,1,10,7,No,Somewhat easy,More than 1000,N/A (none offered),"Yes, I experienced",Yes,"Yes, I observed","No, none of my previous supervisors","No, none did",2
-82,Not applicable to me,Don't Know,Not applicable to me,0,2,5,Yes,Difficult,6-25,N/A (was not aware),No,I don't know,No,Some of my previous supervisors,I don't know,1
-83,Often,Possibly,Not applicable to me,0,0,0,Yes,Somewhat difficult,6-25,I was aware of some,No,Yes,Maybe/Not sure,Some of my previous supervisors,Some did,1
-84,Often,Yes,Rarely,1,10,5,I don't know,I don't know,More than 1000,"No, I only became aware later",No,Yes,"Yes, I observed","No, none of my previous supervisors","Yes, they all did",2
-85,Sometimes,Yes,Rarely,1,8,4,Yes,Neither easy nor difficult,6-25,I was aware of some,"Yes, I experienced",I don't know,"Yes, I observed",Some of my previous supervisors,Some did,1
-86,Sometimes,Possibly,Sometimes,0,5,5,No,Neither easy nor difficult,26-100,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,1
-87,Often,Yes,Sometimes,1,10,9,Yes,Very easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-88,Not applicable to me,No,Not applicable to me,0,4,2,No,Somewhat easy,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,0
-89,Often,Yes,Sometimes,1,10,5,Yes,Neither easy nor difficult,More than 1000,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I experienced","Yes, all of my previous supervisors","Yes, they all did",2
-90,Not applicable to me,No,Sometimes,0,7,7,No,Somewhat easy,6-25,I was aware of some,Maybe/Not sure,No,Maybe/Not sure,Some of my previous supervisors,Some did,0
-91,Not applicable to me,No,Not applicable to me,1,8,6,Yes,Somewhat difficult,100-500,"Yes, I was aware of all of them","Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,"Yes, they all did",0
-92,Often,No,Rarely,0,5,5,No,Somewhat easy,More than 1000,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors",Some did,2
-93,Not applicable to me,No,Not applicable to me,0,2,7,Yes,Difficult,More than 1000,I was aware of some,Maybe/Not sure,No,Maybe/Not sure,Some of my previous supervisors,Some did,0
-94,Not applicable to me,Possibly,Not applicable to me,0,10,6,No,Somewhat difficult,26-100,N/A (was not aware),No,I don't know,"Yes, I observed","No, none of my previous supervisors","No, none did",0
-95,Sometimes,Yes,Rarely,1,8,8,I don't know,Somewhat easy,500-1000,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-96,Often,Yes,Sometimes,1,10,5,Yes,Somewhat easy,100-500,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-97,Often,Possibly,Sometimes,1,8,5,No,Somewhat easy,More than 1000,I was aware of some,Maybe/Not sure,Yes,No,Some of my previous supervisors,Some did,2
-98,Not applicable to me,No,Not applicable to me,0,10,0,No,Difficult,More than 1000,N/A (none offered),No,No,No,"No, none of my previous supervisors","No, none did",0
-99,Not applicable to me,Don't Know,Not applicable to me,0,7,7,Yes,I don't know,More than 1000,N/A (was not aware),Maybe/Not sure,Yes,No,"No, none of my previous supervisors",I don't know,1
-100,Not applicable to me,No,Not applicable to me,0,10,10,No,Very easy,More than 1000,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,0
-101,Often,Yes,Rarely,1,2,0,Yes,Difficult,More than 1000,N/A (none offered),No,No,"Yes, I observed","No, none of my previous supervisors","No, none did",2
-102,Not applicable to me,No,Not applicable to me,0,1,5,No,Somewhat easy,More than 1000,I was aware of some,I've always been self-employed,Yes,I've always been self-employed,Some of my previous supervisors,Some did,0
-103,Not applicable to me,Possibly,Not applicable to me,1,10,10,Yes,Very easy,100-500,I was aware of some,"Yes, I observed",Yes,No,"Yes, all of my previous supervisors",Some did,0
-104,Not applicable to me,No,Not applicable to me,0,8,6,No,Very easy,100-500,N/A (was not aware),No,Not eligible for coverage / NA,No,"No, none of my previous supervisors",I don't know,0
-105,Often,Possibly,Rarely,1,10,3,Yes,Somewhat difficult,1-5,N/A (was not aware),No,I don't know,No,"No, none of my previous supervisors","No, none did",2
-106,Often,Yes,Sometimes,1,10,7,Yes,Difficult,6-25,N/A (was not aware),Maybe/Not sure,Not eligible for coverage / NA,Maybe/Not sure,"No, none of my previous supervisors",I don't know,2
-107,Not applicable to me,No,Not applicable to me,0,9,9,I don't know,Somewhat difficult,26-100,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,0
-108,Not applicable to me,No,Not applicable to me,0,4,5,No,Somewhat easy,More than 1000,"No, I only became aware later",No,Yes,No,"No, none of my previous supervisors","Yes, they all did",0
-109,Often,Possibly,Rarely,1,9,7,Yes,Somewhat difficult,More than 1000,N/A (was not aware),Maybe/Not sure,Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",1
-110,Often,Yes,Sometimes,0,9,9,No,I don't know,6-25,I was aware of some,"Yes, I observed",Yes,No,Some of my previous supervisors,Some did,1
-111,Not applicable to me,Possibly,Not applicable to me,1,8,8,Yes,I don't know,500-1000,N/A (none offered),"Yes, I observed",Yes,No,Some of my previous supervisors,I don't know,1
-112,Rarely,No,Often,1,4,4,I don't know,Somewhat easy,6-25,N/A (was not aware),Maybe/Not sure,No,"Yes, I observed",Some of my previous supervisors,"No, none did",0
-113,Often,Don't Know,Rarely,1,9,8,Yes,Somewhat easy,26-100,I was aware of some,"Yes, I observed",I don't know,No,Some of my previous supervisors,Some did,2
-114,Not applicable to me,No,Not applicable to me,0,7,5,No,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,No,Some of my previous supervisors,Some did,0
-115,Rarely,Yes,Sometimes,0,9,5,No,Somewhat easy,26-100,I was aware of some,No,Yes,No,"Yes, all of my previous supervisors",Some did,0
-116,Rarely,Yes,Rarely,1,10,5,No,Difficult,6-25,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-117,Often,Yes,Often,1,2,3,Yes,Neither easy nor difficult,6-25,"No, I only became aware later",No,I don't know,"Yes, I observed","No, none of my previous supervisors",Some did,2
-118,Often,No,Often,1,10,7,I don't know,Very easy,More than 1000,"Yes, I was aware of all of them",No,Yes,No,"No, none of my previous supervisors","Yes, they all did",2
-119,Not applicable to me,Possibly,Not applicable to me,1,8,8,Yes,Somewhat easy,500-1000,N/A (was not aware),Maybe/Not sure,Yes,"Yes, I experienced",Some of my previous supervisors,I don't know,1
-120,Sometimes,Yes,Rarely,1,6,6,Yes,Somewhat easy,100-500,"Yes, I was aware of all of them",No,Yes,No,Some of my previous supervisors,"Yes, they all did",0
-121,Not applicable to me,Yes,Rarely,1,5,5,No,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",0
-122,Often,Yes,Rarely,1,9,5,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,"Yes, I observed","No, none of my previous supervisors",Some did,2
-123,Often,Yes,Often,1,8,3,Yes,Neither easy nor difficult,6-25,"No, I only became aware later","Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,"No, none did",2
-124,Sometimes,Yes,Rarely,1,5,6,Yes,Somewhat difficult,More than 1000,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,1
-125,Often,Yes,Sometimes,1,10,5,I don't know,Somewhat easy,More than 1000,N/A (none offered),Maybe/Not sure,Yes,No,"Yes, all of my previous supervisors",I don't know,1
-126,Often,Possibly,Sometimes,0,2,9,I don't know,Very easy,26-100,N/A (none offered),"Yes, I experienced",Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",2
-127,Often,No,Rarely,0,8,7,Yes,Somewhat difficult,More than 1000,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,"Yes, they all did",1
-128,Often,Yes,Rarely,1,7,6,Yes,I don't know,6-25,I was aware of some,"Yes, I experienced",Not eligible for coverage / NA,"Yes, I experienced",Some of my previous supervisors,Some did,2
-129,Not applicable to me,No,Not applicable to me,0,7,7,No,Somewhat easy,6-25,N/A (was not aware),"Yes, I observed",I don't know,Maybe/Not sure,"Yes, all of my previous supervisors",I don't know,0
-130,Sometimes,No,Sometimes,1,3,5,Yes,Somewhat easy,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-131,Often,Yes,Sometimes,1,10,8,Yes,I don't know,6-25,N/A (was not aware),No,Yes,"Yes, I experienced",Some of my previous supervisors,Some did,0
-132,Sometimes,Yes,Sometimes,1,9,9,Yes,Somewhat difficult,500-1000,I was aware of some,No,Yes,Maybe/Not sure,"No, none of my previous supervisors",Some did,2
-133,Rarely,No,Rarely,0,7,5,I don't know,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,Some did,1
-134,Often,Yes,Sometimes,1,5,2,Yes,I don't know,More than 1000,I was aware of some,No,Not eligible for coverage / NA,"Yes, I experienced",Some of my previous supervisors,Some did,2
-135,Not applicable to me,No,Not applicable to me,0,5,8,No,Very easy,26-100,N/A (was not aware),Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",0
-136,Sometimes,Yes,Rarely,1,6,8,Yes,Somewhat easy,100-500,N/A (was not aware),"Yes, I experienced",Yes,No,"No, none of my previous supervisors",I don't know,2
-137,Not applicable to me,No,Not applicable to me,0,9,7,No,Very easy,26-100,N/A (was not aware),"Yes, I observed",I don't know,No,"No, none of my previous supervisors",I don't know,0
-138,Often,Yes,Sometimes,1,10,8,Yes,Very easy,26-100,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I experienced","No, none of my previous supervisors","Yes, they all did",2
-139,Often,Yes,Sometimes,1,5,5,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them",Maybe/Not sure,Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",2
-140,Often,Yes,Sometimes,1,10,3,Yes,I don't know,26-100,I was aware of some,No,Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-141,Often,Yes,Never,1,5,5,Yes,Neither easy nor difficult,500-1000,"No, I only became aware later",No,Yes,"Yes, I observed","No, none of my previous supervisors",Some did,2
-142,Often,Yes,Rarely,1,10,5,Yes,Somewhat easy,More than 1000,N/A (was not aware),"Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,"No, none did",2
-143,Sometimes,Possibly,Sometimes,1,8,3,Yes,I don't know,More than 1000,I was aware of some,"Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-144,Not applicable to me,Possibly,Not applicable to me,1,8,5,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,No,Some of my previous supervisors,I don't know,0
-145,Not applicable to me,Possibly,Not applicable to me,1,7,6,No,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,0
-146,Often,Yes,Never,0,3,3,Yes,Somewhat easy,100-500,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,"No, none did",2
-147,Often,Yes,Sometimes,1,9,8,Yes,I don't know,More than 1000,"Yes, I was aware of all of them","Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-148,Often,Yes,Sometimes,1,9,9,No,Very easy,6-25,N/A (none offered),"Yes, I experienced",Yes,No,Some of my previous supervisors,"No, none did",2
-149,Rarely,Yes,Sometimes,0,8,5,I don't know,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,1
-150,Not applicable to me,No,Not applicable to me,0,6,5,No,Somewhat easy,More than 1000,N/A (none offered),No,Yes,"Yes, I observed","No, none of my previous supervisors","No, none did",0
-151,Not applicable to me,Yes,Not applicable to me,1,6,5,I don't know,Somewhat easy,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,1
-152,Often,Yes,Rarely,1,10,4,Yes,Difficult,More than 1000,I was aware of some,No,Yes,"Yes, I experienced",Some of my previous supervisors,Some did,1
-153,Sometimes,Yes,Yes,Yes,Yes,"Discussed issues with a coworker friend who also has issues, we traded advice mostly",1,I don't know,500-1000,Some did,Coworkers were derogatory towards people and received no reprimand,Yes,3,Physical health,0,1
-154,Often,Yes,Sometimes,1,7,7,Yes,Very easy,More than 1000,N/A (was not aware),"Yes, I observed",Yes,"Yes, I observed","No, none of my previous supervisors",I don't know,1
-155,Not applicable to me,No,Not applicable to me,0,7,6,No,Somewhat easy,26-100,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,0
-156,Often,Yes,Sometimes,1,8,7,I don't know,I don't know,100-500,N/A (was not aware),"Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-157,Not applicable to me,No,Not applicable to me,0,8,6,Yes,Somewhat difficult,100-500,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,1
-158,Not applicable to me,No,Not applicable to me,0,5,5,No,Neither easy nor difficult,More than 1000,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,0
-159,Sometimes,Yes,Rarely,1,9,6,I don't know,Somewhat easy,More than 1000,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",2
-160,Not applicable to me,No,Not applicable to me,0,3,5,No,Somewhat easy,More than 1000,I was aware of some,Maybe/Not sure,Yes,"Yes, I observed",I don't know,Some did,0
-161,Often,Possibly,Rarely,1,6,10,No,Somewhat easy,More than 1000,I was aware of some,Maybe/Not sure,Yes,No,Some of my previous supervisors,Some did,2
-162,Not applicable to me,Yes,Not applicable to me,1,9,8,Yes,Very easy,26-100,I was aware of some,"Yes, I experienced",Not eligible for coverage / NA,No,Some of my previous supervisors,Some did,1
-163,Often,Yes,Sometimes,1,8,8,Yes,Somewhat easy,1-5,"No, I only became aware later","Yes, I experienced",No,Maybe/Not sure,Some of my previous supervisors,Some did,1
-164,Often,Yes,Sometimes,1,9,5,Yes,Somewhat easy,500-1000,"Yes, I was aware of all of them","Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-165,Not applicable to me,No,Sometimes,0,4,6,No,Somewhat easy,1-5,I was aware of some,No,No,No,Some of my previous supervisors,Some did,0
-166,Often,Don't Know,Not applicable to me,0,0,10,I don't know,Very easy,100-500,N/A (none offered),Maybe/Not sure,Not eligible for coverage / NA,No,"No, none of my previous supervisors","No, none did",1
-167,Often,No,Rarely,1,1,3,Yes,Difficult,100-500,N/A (was not aware),No,Yes,No,"No, none of my previous supervisors",I don't know,2
-168,Not applicable to me,No,Not applicable to me,0,9,7,No,Very easy,100-500,N/A (was not aware),Maybe/Not sure,Yes,No,I don't know,I don't know,0
-169,Sometimes,Yes,Rarely,0,3,7,I don't know,Neither easy nor difficult,More than 1000,"No, I only became aware later",No,Yes,"Yes, I observed",Some of my previous supervisors,Some did,1
-170,Not applicable to me,Don't Know,Not applicable to me,0,4,5,I don't know,Somewhat easy,More than 1000,N/A (was not aware),"Yes, I observed",Yes,No,"Yes, all of my previous supervisors",Some did,0
-171,Sometimes,Yes,Sometimes,1,10,7,I don't know,Somewhat difficult,26-100,N/A (was not aware),"Yes, I observed",Yes,No,I don't know,Some did,2
-172,Sometimes,Yes,Rarely,1,9,8,Yes,Neither easy nor difficult,6-25,N/A (none offered),Maybe/Not sure,I don't know,Maybe/Not sure,I don't know,"No, none did",2
-173,Not applicable to me,Possibly,Not applicable to me,0,7,5,Yes,Somewhat easy,6-25,N/A (was not aware),"Yes, I observed",No,No,"No, none of my previous supervisors",I don't know,1
-174,Not applicable to me,Don't Know,Not applicable to me,0,0,2,I don't know,Very easy,6-25,N/A (was not aware),Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors",I don't know,1
-175,Often,Possibly,Rarely,1,6,5,No,Very easy,100-500,"No, I only became aware later","Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,"No, none did",1
-176,Not applicable to me,No,Not applicable to me,0,8,5,Yes,Somewhat easy,100-500,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,0
-177,Not applicable to me,Don't Know,Not applicable to me,0,7,8,No,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,No,Some of my previous supervisors,I don't know,1
-178,Sometimes,Possibly,Rarely,1,9,10,Yes,Somewhat easy,100-500,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,0
-179,Not applicable to me,No,Not applicable to me,0,7,6,No,I don't know,26-100,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,0
-180,Often,Yes,Sometimes,1,4,6,Yes,Somewhat difficult,100-500,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-181,Not applicable to me,No,Not applicable to me,0,6,5,Yes,Somewhat easy,26-100,I was aware of some,"Yes, I observed",I don't know,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",1
-182,Often,Possibly,Sometimes,0,7,5,Yes,Very easy,More than 1000,I was aware of some,"Yes, I experienced",I don't know,"Yes, I observed",Some of my previous supervisors,Some did,1
-183,Sometimes,Yes,Never,1,10,7,No,Very easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",2
-184,Not applicable to me,No,Not applicable to me,1,7,5,Yes,Very easy,100-500,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",I don't know,"Yes, they all did",0
-185,Often,Yes,Sometimes,1,10,8,Yes,Somewhat easy,500-1000,N/A (was not aware),"Yes, I experienced",Yes,"Yes, I experienced",I don't know,I don't know,2
-186,Often,Yes,Rarely,1,7,4,Yes,Somewhat easy,100-500,"Yes, I was aware of all of them",No,Yes,No,"Yes, all of my previous supervisors","Yes, they all did",0
-187,Often,Yes,Sometimes,1,3,5,I don't know,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-188,Rarely,Yes,Rarely,1,10,7,Yes,Very easy,26-100,N/A (was not aware),No,I don't know,No,Some of my previous supervisors,I don't know,0
-189,Often,Yes,Sometimes,1,8,6,Yes,Somewhat easy,More than 1000,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-190,Often,Yes,Sometimes,1,4,6,No,Somewhat easy,More than 1000,N/A (was not aware),Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,I don't know,2
-191,Not applicable to me,Don't Know,Not applicable to me,1,5,5,No,I don't know,More than 1000,N/A (none offered),No,I don't know,"Yes, I experienced",I don't know,"No, none did",1
-192,Often,Yes,Sometimes,1,7,8,Yes,Neither easy nor difficult,More than 1000,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-193,Sometimes,Yes,Not applicable to me,1,10,8,Yes,Somewhat easy,26-100,I was aware of some,"Yes, I experienced",I don't know,Maybe/Not sure,"Yes, all of my previous supervisors",Some did,2
-194,Often,Don't Know,Rarely,0,9,9,Yes,Somewhat easy,100-500,N/A (was not aware),Maybe/Not sure,Yes,No,"Yes, all of my previous supervisors",I don't know,0
-195,Not applicable to me,Possibly,Not applicable to me,1,7,7,Yes,Somewhat easy,100-500,N/A (none offered),Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,"No, none did",0
-196,Often,Yes,Rarely,1,10,5,Yes,Neither easy nor difficult,More than 1000,N/A (none offered),"Yes, I experienced",Yes,No,"No, none of my previous supervisors","No, none did",2
-197,Sometimes,Possibly,Not applicable to me,0,4,5,I don't know,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,"Yes, I observed","No, none of my previous supervisors","No, none did",1
-198,Often,Yes,Rarely,1,5,10,Yes,Difficult,100-500,I was aware of some,"Yes, I experienced",No,No,Some of my previous supervisors,Some did,2
-199,Often,Yes,Rarely,1,5,7,Yes,Neither easy nor difficult,More than 1000,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-200,Not applicable to me,Yes,Rarely,1,8,7,No,Somewhat easy,100-500,I was aware of some,"Yes, I observed",Yes,No,Some of my previous supervisors,I don't know,0
-201,Not applicable to me,No,Not applicable to me,0,4,4,No,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,No,I don't know,I don't know,0
-202,Often,Yes,Often,1,2,9,Yes,Somewhat difficult,More than 1000,I was aware of some,No,Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-203,Sometimes,Yes,Rarely,1,8,5,Yes,Very easy,100-500,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,2
-204,Often,Yes,Sometimes,1,9,5,I don't know,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-205,Often,Yes,Sometimes,1,5,5,Yes,Very easy,26-100,"Yes, I was aware of all of them","Yes, I observed",Yes,Maybe/Not sure,"No, none of my previous supervisors","Yes, they all did",1
-206,Rarely,Yes,Yes,Yes,No,We spoke about how work was impacting their mental state and it helped me understand and better relate and accommodate that individual. ,1,Difficult,More than 1000,Some did,One of my similarly affected colleagues needed time off as he reached a breaking point. He was harangued for being needy and shuffled around to other groups instead of being given the time needed to heal. ,No,8,Physical health,1,1
-207,Often,Yes,Often,1,7,0,Yes,Difficult,6-25,"No, I only became aware later","Yes, I observed",I don't know,"Yes, I observed",Some of my previous supervisors,Some did,2
-208,Often,Possibly,Sometimes,1,5,4,Yes,Somewhat difficult,100-500,I was aware of some,"Yes, I observed",I don't know,"Yes, I observed","Yes, all of my previous supervisors",Some did,1
-209,Not applicable to me,No,Not applicable to me,0,8,7,No,I don't know,100-500,I was aware of some,Maybe/Not sure,I don't know,No,Some of my previous supervisors,Some did,0
-210,Often,Yes,Sometimes,1,6,6,Yes,Somewhat easy,6-25,"Yes, I was aware of all of them","Yes, I observed",Not eligible for coverage / NA,Maybe/Not sure,Some of my previous supervisors,Some did,1
-211,Sometimes,Possibly,Not applicable to me,0,8,5,No,Somewhat easy,More than 1000,"No, I only became aware later",Maybe/Not sure,Yes,No,Some of my previous supervisors,Some did,1
-212,Not applicable to me,Don't Know,Sometimes,1,5,5,No,Very easy,100-500,N/A (was not aware),"Yes, I experienced",I don't know,"Yes, I observed",Some of my previous supervisors,"No, none did",1
-213,Not applicable to me,Yes,Not applicable to me,0,4,3,No,I don't know,26-100,I was aware of some,No,Yes,No,"No, none of my previous supervisors",Some did,1
-214,Sometimes,Yes,Sometimes,1,8,2,I don't know,Difficult,100-500,"No, I only became aware later","Yes, I observed",I don't know,"Yes, I experienced","No, none of my previous supervisors",Some did,2
-215,Not applicable to me,No,Not applicable to me,0,8,5,No,Somewhat easy,More than 1000,N/A (none offered),Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,"No, none did",0
-216,Often,Yes,Rarely,1,10,10,Yes,I don't know,6-25,N/A (none offered),"Yes, I observed",Yes,"Yes, I experienced","Yes, all of my previous supervisors","No, none did",2
-217,Not applicable to me,No,Not applicable to me,1,10,0,No,Very easy,6-25,I was aware of some,Maybe/Not sure,Yes,No,"No, none of my previous supervisors",Some did,0
-218,Often,Yes,Rarely,1,8,5,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-219,Often,Yes,Sometimes,1,8,6,Yes,I don't know,26-100,N/A (was not aware),Maybe/Not sure,I don't know,"Yes, I observed",Some of my previous supervisors,I don't know,2
-220,Often,Yes,Rarely,1,0,0,I don't know,Somewhat easy,6-25,"Yes, I was aware of all of them",No,Yes,No,"No, none of my previous supervisors","Yes, they all did",2
-221,Not applicable to me,No,Not applicable to me,1,5,5,Yes,Very easy,More than 1000,N/A (none offered),Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",0
-222,Often,Yes,Sometimes,1,7,5,Yes,Somewhat difficult,More than 1000,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-223,Not applicable to me,No,Not applicable to me,0,6,5,No,Somewhat easy,6-25,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,0
-224,Not applicable to me,No,Not applicable to me,0,4,1,No,I don't know,6-25,"Yes, I was aware of all of them",No,Yes,No,Some of my previous supervisors,"Yes, they all did",0
-225,Often,Yes,Often,1,10,6,I don't know,Somewhat difficult,100-500,I was aware of some,No,Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-226,Often,Yes,Sometimes,1,4,5,I don't know,Somewhat easy,More than 1000,"Yes, I was aware of all of them",No,Yes,Maybe/Not sure,"No, none of my previous supervisors",Some did,1
-227,Often,Yes,Often,1,8,1,Yes,Difficult,More than 1000,I was aware of some,No,No,"Yes, I experienced","No, none of my previous supervisors",Some did,2
-228,Rarely,Yes,Yes,Yes,Yes, it wasn't a positive conversation. ,1,Very easy,More than 1000,"Yes, they all did","A coworker was threatening self-harm in her office; the campus police were called in; she was removed, and then dismissed. She became the subject of rumors and gossip, and eventually left. ",Yes,3,Physical health,0,1
-229,Often,Yes,Rarely,1,8,7,Yes,Difficult,500-1000,"Yes, I was aware of all of them",No,No,"Yes, I experienced",Some of my previous supervisors,Some did,2
-230,Not applicable to me,Possibly,Sometimes,1,5,6,Yes,Somewhat easy,100-500,N/A (none offered),"Yes, I observed",Yes,Maybe/Not sure,I don't know,"No, none did",2
-231,Often,Don't Know,Rarely,1,7,0,Yes,Difficult,100-500,"Yes, I was aware of all of them","Yes, I experienced",No,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",1
-232,Often,Possibly,Rarely,1,8,7,I don't know,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,6,"No, none of my previous supervisors",I don't know,2
-233,Not applicable to me,Possibly,Not applicable to me,0,5,7,Yes,Somewhat easy,26-100,N/A (none offered),"Yes, I observed",I don't know,No,Some of my previous supervisors,"No, none did",1
-234,Not applicable to me,No,Not applicable to me,0,6,9,I don't know,I don't know,500-1000,N/A (none offered),No,I don't know,Maybe/Not sure,"No, none of my previous supervisors","No, none did",1
-235,Often,Yes,Rarely,1,10,5,Yes,Somewhat easy,6-25,I was aware of some,No,No,"Yes, I experienced",Some of my previous supervisors,Some did,0
-236,Often,Possibly,Rarely,1,9,7,Yes,Neither easy nor difficult,500-1000,"No, I only became aware later",No,Yes,No,"No, none of my previous supervisors",Some did,2
-237,Sometimes,Don't Know,Rarely,1,6,7,I don't know,Very easy,100-500,N/A (none offered),"Yes, I observed",Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",1
-238,Often,Yes,Not applicable to me,1,9,5,Yes,I don't know,100-500,I was aware of some,Maybe/Not sure,I don't know,"Yes, I experienced",Some of my previous supervisors,Some did,2
-239,Not applicable to me,No,Not applicable to me,0,6,8,No,Somewhat easy,26-100,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,0
-240,Not applicable to me,No,Not applicable to me,0,6,5,No,Neither easy nor difficult,More than 1000,N/A (was not aware),"Yes, I observed",I don't know,"Yes, I observed",Some of my previous supervisors,I don't know,0
-241,Not applicable to me,No,Not applicable to me,0,8,6,No,Somewhat easy,500-1000,I was aware of some,Maybe/Not sure,Yes,No,"Yes, all of my previous supervisors","Yes, they all did",1
-242,Rarely,No,Rarely,1,6,7,I don't know,Somewhat easy,More than 1000,"No, I only became aware later",No,Yes,No,Some of my previous supervisors,Some did,1
-243,Sometimes,Possibly,Not applicable to me,1,9,7,Yes,Somewhat difficult,26-100,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,1
-244,Not applicable to me,No,Not applicable to me,0,9,7,No,Very easy,100-500,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,I don't know,0
-245,Often,Yes,Often,1,3,10,Yes,Somewhat difficult,6-25,"Yes, I was aware of all of them","Yes, I observed",Not eligible for coverage / NA,No,"No, none of my previous supervisors",I don't know,2
-246,Sometimes,Possibly,Rarely,1,10,8,Yes,Somewhat easy,100-500,"Yes, I was aware of all of them","Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",1
-247,Sometimes,Yes,Never,1,9,2,Yes,I don't know,6-25,I was aware of some,No,Not eligible for coverage / NA,No,Some of my previous supervisors,Some did,1
-248,Sometimes,Possibly,Rarely,1,9,7,Yes,Very easy,100-500,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-249,Often,Yes,Often,1,10,5,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,"Yes, they all did",2
-250,Often,Possibly,Sometimes,1,7,3,No,I don't know,More than 1000,N/A (was not aware),"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,1
-251,Often,Yes,Rarely,1,9,3,Yes,Neither easy nor difficult,500-1000,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,2
-252,Not applicable to me,Possibly,Not applicable to me,0,5,5,Yes,Very easy,More than 1000,N/A (none offered),No,Yes,No,"No, none of my previous supervisors","No, none did",0
-253,Often,Yes,Sometimes,1,8,6,I don't know,Very easy,100-500,N/A (was not aware),"Yes, I experienced",Yes,No,"No, none of my previous supervisors",I don't know,2
-254,Often,Yes,Sometimes,1,5,7,Yes,Neither easy nor difficult,26-100,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,2
-255,Often,Possibly,Sometimes,1,8,5,I don't know,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,"Yes, I experienced",Some of my previous supervisors,"No, none did",2
-256,Often,Yes,Often,1,10,6,Yes,Somewhat easy,100-500,"No, I only became aware later","Yes, I experienced",Yes,Maybe/Not sure,I don't know,"No, none did",2
-257,Sometimes,Yes,Rarely,1,8,6,Yes,Somewhat difficult,26-100,"No, I only became aware later",Maybe/Not sure,Yes,No,I don't know,I don't know,2
-258,Sometimes,Yes,Rarely,1,5,5,No,Neither easy nor difficult,6-25,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,"No, none of my previous supervisors",Some did,0
-259,Sometimes,Yes,Rarely,1,10,6,Yes,I don't know,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-260,Sometimes,Yes,Rarely,1,10,5,Yes,Somewhat easy,26-100,N/A (none offered),"Yes, I experienced",No,No,"No, none of my previous supervisors","No, none did",0
-261,Often,Yes,Sometimes,1,10,3,Yes,I don't know,100-500,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I experienced","Yes, all of my previous supervisors","Yes, they all did",2
-262,Often,Don't Know,Not applicable to me,0,10,2,Yes,I don't know,More than 1000,I was aware of some,No,Yes,No,"No, none of my previous supervisors",Some did,1
-263,Often,Yes,Rarely,1,2,7,Yes,Somewhat easy,100-500,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors",Some did,2
-264,Not applicable to me,No,Not applicable to me,0,7,7,Yes,Somewhat easy,100-500,I was aware of some,Maybe/Not sure,Yes,"Yes, I observed",Some of my previous supervisors,Some did,0
-265,Often,Yes,Sometimes,1,7,9,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-266,Often,Yes,Rarely,1,10,8,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them",Maybe/Not sure,Yes,No,Some of my previous supervisors,"Yes, they all did",2
-267,Often,Yes,Often,1,7,5,Yes,Somewhat easy,More than 1000,I was aware of some,No,Yes,No,"No, none of my previous supervisors","Yes, they all did",2
-268,Sometimes,Yes,Rarely,1,4,6,No,Very easy,6-25,N/A (was not aware),"Yes, I experienced",Yes,No,"Yes, all of my previous supervisors","Yes, they all did",2
-269,Not applicable to me,Don't Know,Not applicable to me,0,3,2,I don't know,Neither easy nor difficult,More than 1000,N/A (was not aware),No,Yes,"Yes, I observed","No, none of my previous supervisors",I don't know,1
-270,Sometimes,No,Rarely,0,5,8,No,Very easy,26-100,N/A (was not aware),No,No,No,"No, none of my previous supervisors","No, none did",1
-271,Sometimes,Yes,Never,1,10,8,No,I don't know,100-500,N/A (was not aware),Maybe/Not sure,Yes,No,Some of my previous supervisors,"Yes, they all did",2
-272,Not applicable to me,Possibly,Not applicable to me,1,7,7,Yes,I don't know,More than 1000,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,"No, none of my previous supervisors","Yes, they all did",1
-273,Sometimes,Don't Know,Sometimes,0,5,8,No,Somewhat easy,100-500,I was aware of some,"Yes, I experienced",I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,1
-274,Not applicable to me,Don't Know,Not applicable to me,0,8,5,I don't know,I don't know,100-500,N/A (was not aware),Maybe/Not sure,Yes,No,Some of my previous supervisors,I don't know,1
-275,Often,No,Not applicable to me,0,8,8,I don't know,I don't know,More than 1000,N/A (none offered),Maybe/Not sure,Not eligible for coverage / NA,No,"No, none of my previous supervisors","No, none did",1
-276,Not applicable to me,Possibly,Not applicable to me,0,6,5,Yes,Somewhat easy,More than 1000,"No, I only became aware later","Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,1
-277,Often,Don't Know,Not applicable to me,0,9,6,I don't know,Somewhat easy,100-500,"No, I only became aware later",Maybe/Not sure,Yes,No,Some of my previous supervisors,I don't know,0
-278,Often,Yes,Often,1,8,3,I don't know,Somewhat easy,More than 1000,I was aware of some,No,Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-279,Often,No,Not applicable to me,0,6,6,I don't know,Somewhat easy,26-100,N/A (was not aware),Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,I don't know,1
-280,Sometimes,Yes,Rarely,1,9,5,I don't know,Neither easy nor difficult,6-25,I was aware of some,"Yes, I observed",No,Maybe/Not sure,Some of my previous supervisors,Some did,2
-281,Often,No,Sometimes,1,6,7,I don't know,Somewhat easy,500-1000,N/A (none offered),"Yes, I observed",Yes,"Yes, I observed","No, none of my previous supervisors","No, none did",2
-282,Sometimes,Don't Know,Sometimes,1,6,6,Yes,Somewhat easy,100-500,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,1
-283,Often,Yes,Sometimes,1,10,10,Yes,Very easy,26-100,N/A (was not aware),"Yes, I observed",Yes,"Yes, I observed",I don't know,I don't know,2
-284,Often,Possibly,Sometimes,1,7,5,Yes,Somewhat easy,6-25,I was aware of some,Maybe/Not sure,I don't know,No,Some of my previous supervisors,Some did,2
-285,Not applicable to me,No,Not applicable to me,0,7,7,No,Very easy,100-500,I was aware of some,"Yes, I observed",Yes,"Yes, I observed","Yes, all of my previous supervisors",Some did,0
-286,Not applicable to me,Don't Know,Not applicable to me,0,5,5,No,Very easy,6-25,N/A (was not aware),No,I don't know,No,"No, none of my previous supervisors",I don't know,0
-287,Sometimes,Possibly,Rarely,1,7,8,No,Somewhat easy,100-500,I was aware of some,"Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",1
-288,Often,Yes,Rarely,1,10,6,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-289,Not applicable to me,No,Not applicable to me,0,10,10,No,Very easy,6-25,N/A (was not aware),No,I don't know,No,"Yes, all of my previous supervisors",I don't know,0
-290,Not applicable to me,No,Not applicable to me,0,0,4,No,Difficult,6-25,N/A (was not aware),No,I don't know,No,Some of my previous supervisors,I don't know,0
-291,Sometimes,Yes,Rarely,1,10,5,Yes,Difficult,500-1000,"Yes, I was aware of all of them","Yes, I observed",Yes,No,Some of my previous supervisors,Some did,2
-292,Sometimes,Yes,Rarely,1,9,7,I don't know,I don't know,More than 1000,"Yes, I was aware of all of them",Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,"Yes, they all did",2
-293,Not applicable to me,Possibly,Not applicable to me,0,8,5,Yes,I don't know,6-25,N/A (was not aware),No,I don't know,No,"No, none of my previous supervisors",I don't know,1
-294,Often,Yes,Sometimes,1,8,10,Yes,Somewhat difficult,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-295,Rarely,Yes,Never,1,6,5,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,0
-296,Rarely,Yes,Never,1,7,8,Yes,Very easy,100-500,I was aware of some,"Yes, I experienced",Yes,No,Some of my previous supervisors,Some did,1
-297,Sometimes,Yes,Rarely,1,10,7,Yes,I don't know,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,"Yes, they all did",2
-298,Often,Yes,Rarely,1,5,7,Yes,Neither easy nor difficult,500-1000,I was aware of some,No,Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-299,Often,Yes,Sometimes,1,8,2,Yes,Somewhat difficult,More than 1000,N/A (was not aware),Maybe/Not sure,Yes,"Yes, I observed","No, none of my previous supervisors",I don't know,2
-300,Not applicable to me,No,Not applicable to me,0,1,5,I don't know,Very easy,More than 1000,I was aware of some,"Yes, I observed",I don't know,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",0
-301,Not applicable to me,Possibly,Not applicable to me,0,7,9,No,Very easy,26-100,N/A (none offered),No,Yes,No,Some of my previous supervisors,"No, none did",0
-302,Often,Yes,Often,1,3,5,I don't know,Somewhat easy,More than 1000,N/A (none offered),No,Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",1
-303,Not applicable to me,No,Not applicable to me,0,7,4,No,Somewhat easy,500-1000,I was aware of some,Maybe/Not sure,No,Maybe/Not sure,"No, none of my previous supervisors","Yes, they all did",0
-304,Often,Yes,Often,1,9,7,Yes,Somewhat difficult,26-100,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
-305,Sometimes,Yes,Sometimes,1,8,5,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them","Yes, I observed",Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",2
-306,Not applicable to me,Don't Know,Not applicable to me,1,2,5,Yes,Somewhat easy,More than 1000,N/A (none offered),No,Yes,No,"No, none of my previous supervisors","No, none did",1
-307,Sometimes,Yes,Rarely,1,8,9,Yes,Somewhat easy,500-1000,N/A (was not aware),No,Yes,No,"No, none of my previous supervisors",Some did,2
-308,Often,Yes,Often,1,7,6,I don't know,I don't know,26-100,I was aware of some,"Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-309,Often,Yes,Rarely,1,10,5,I don't know,I don't know,More than 1000,I was aware of some,No,Yes,No,"No, none of my previous supervisors",Some did,2
-310,Sometimes,No,Not applicable to me,1,6,4,I don't know,Somewhat easy,6-25,N/A (was not aware),No,Not eligible for coverage / NA,"Yes, I observed",Some of my previous supervisors,I don't know,1
-311,Not applicable to me,No,Not applicable to me,0,6,5,No,Somewhat easy,More than 1000,N/A (was not aware),No,Yes,Maybe/Not sure,Some of my previous supervisors,I don't know,0
-312,Sometimes,Possibly,Not applicable to me,0,9,6,I don't know,I don't know,More than 1000,N/A (was not aware),"Yes, I observed",I don't know,No,"Yes, all of my previous supervisors",I don't know,1
-313,Often,Possibly,Sometimes,1,2,8,I don't know,Difficult,More than 1000,"Yes, I was aware of all of them",Maybe/Not sure,Yes,Maybe/Not sure,I don't know,"Yes, they all did",1
-314,Often,Possibly,Sometimes,1,10,0,No,I don't know,100-500,N/A (was not aware),Maybe/Not sure,No,Maybe/Not sure,Some of my previous supervisors,"No, none did",1
-315,Often,Yes,Often,1,8,7,Yes,Somewhat easy,100-500,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-316,Not applicable to me,No,Not applicable to me,0,10,10,No,Very easy,26-100,"Yes, I was aware of all of them",No,Not eligible for coverage / NA,No,"Yes, all of my previous supervisors",Some did,0
-317,Not applicable to me,No,Not applicable to me,0,8,5,No,Somewhat easy,100-500,N/A (none offered),No,I don't know,No,Some of my previous supervisors,I don't know,0
-318,Not applicable to me,No,Not applicable to me,0,10,10,No,Very easy,6-25,N/A (was not aware),No,No,No,Some of my previous supervisors,I don't know,1
-319,Not applicable to me,No,Not applicable to me,0,6,8,No,Somewhat easy,6-25,N/A (was not aware),"Yes, I observed",Yes,No,"No, none of my previous supervisors","No, none did",0
-320,Not applicable to me,Yes,Often,1,10,5,No,Somewhat easy,More than 1000,N/A (none offered),No,Yes,No,"No, none of my previous supervisors","No, none did",2
-321,Not applicable to me,No,Not applicable to me,0,7,5,I don't know,Somewhat easy,6-25,"No, I only became aware later",No,No,No,I don't know,"No, none did",0
-322,Not applicable to me,Possibly,Not applicable to me,0,8,8,Yes,Very easy,6-25,I was aware of some,"Yes, I observed",I don't know,"Yes, I observed",Some of my previous supervisors,Some did,1
-323,Not applicable to me,No,Not applicable to me,0,4,7,No,Somewhat easy,6-25,N/A (was not aware),Maybe/Not sure,Not eligible for coverage / NA,Maybe/Not sure,I don't know,I don't know,0
-324,Not applicable to me,Don't Know,Not applicable to me,0,3,6,I don't know,Difficult,6-25,N/A (was not aware),No,Yes,No,"No, none of my previous supervisors",Some did,1
-325,Sometimes,Yes,Never,1,10,4,I don't know,I don't know,500-1000,N/A (none offered),No,No,"Yes, I experienced","No, none of my previous supervisors","No, none did",1
-326,Not applicable to me,Don't Know,Not applicable to me,0,2,1,Yes,I don't know,500-1000,I was aware of some,No,I don't know,"Yes, I observed",Some of my previous supervisors,Some did,1
-327,Sometimes,Yes,Not applicable to me,1,8,8,Yes,Somewhat difficult,26-100,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,1
-328,Often,Yes,Rarely,1,8,8,Yes,Very easy,6-25,"Yes, I was aware of all of them",No,No,No,Some of my previous supervisors,"Yes, they all did",2
-329,Not applicable to me,Possibly,Not applicable to me,0,7,7,No,Somewhat easy,26-100,N/A (was not aware),"Yes, I experienced",Yes,No,Some of my previous supervisors,I don't know,0
-330,Often,Possibly,Sometimes,1,10,9,Yes,Somewhat easy,100-500,N/A (was not aware),"Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,"No, none did",2
-331,Often,Yes,Sometimes,1,10,5,Yes,Somewhat easy,500-1000,I was aware of some,"Yes, I experienced",Yes,No,"No, none of my previous supervisors",Some did,1
-332,Not applicable to me,No,Not applicable to me,0,5,3,No,Very easy,6-25,N/A (was not aware),No,I don't know,No,I don't know,I don't know,0
-333,Often,Yes,Rarely,1,10,5,Yes,Neither easy nor difficult,6-25,N/A (none offered),"Yes, I experienced",No,No,Some of my previous supervisors,"No, none did",2
-334,Rarely,Yes,Rarely,0,8,7,Yes,Very easy,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-335,Often,Yes,Rarely,1,0,6,Yes,Somewhat difficult,More than 1000,I was aware of some,No,No,"Yes, I experienced","No, none of my previous supervisors",Some did,2
-336,Often,Yes,Sometimes,1,10,5,I don't know,Very easy,26-100,N/A (was not aware),"Yes, I observed",Not eligible for coverage / NA,Maybe/Not sure,Some of my previous supervisors,I don't know,2
-337,Sometimes,No,Not applicable to me,0,6,8,I don't know,I don't know,500-1000,N/A (none offered),No,Not eligible for coverage / NA,No,I don't know,"No, none did",1
-338,Sometimes,Yes,Not applicable to me,0,8,6,I don't know,I don't know,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-339,Often,Yes,Often,1,8,6,I don't know,I don't know,500-1000,"Yes, I was aware of all of them",No,Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-340,Often,Yes,Rarely,1,10,7,I don't know,Very easy,26-100,N/A (was not aware),"Yes, I experienced",Yes,No,"No, none of my previous supervisors",I don't know,2
-341,Often,Don't Know,Sometimes,1,7,9,I don't know,Somewhat easy,500-1000,N/A (was not aware),No,Yes,"Yes, I observed",I don't know,I don't know,2
-342,Often,Yes,Rarely,1,10,8,Yes,Very easy,26-100,I was aware of some,"Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-343,Sometimes,Yes,Sometimes,1,1,5,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them",No,Yes,No,"No, none of my previous supervisors","No, none did",2
-344,Often,Possibly,Rarely,1,8,9,I don't know,Very easy,100-500,N/A (was not aware),No,Yes,No,Some of my previous supervisors,I don't know,1
-345,Often,Yes,Sometimes,1,8,7,Yes,Somewhat easy,100-500,"Yes, I was aware of all of them","Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-346,Sometimes,Yes,Never,1,8,10,Yes,I don't know,6-25,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-347,Often,Yes,Sometimes,1,8,5,Yes,Very easy,More than 1000,"Yes, I was aware of all of them","Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,"Yes, they all did",2
-348,Rarely,No,Rarely,1,10,5,I don't know,I don't know,100-500,N/A (none offered),No,No,No,"Yes, all of my previous supervisors","No, none did",2
-349,Sometimes,Possibly,Sometimes,1,8,6,I don't know,Somewhat easy,6-25,N/A (was not aware),No,I don't know,No,"Yes, all of my previous supervisors",I don't know,2
-350,Often,Yes,Sometimes,1,5,5,I don't know,Somewhat easy,More than 1000,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-351,Often,Yes,Often,1,2,4,Yes,Neither easy nor difficult,100-500,"Yes, I was aware of all of them",Maybe/Not sure,No,Maybe/Not sure,"No, none of my previous supervisors","No, none did",1
-352,Often,Possibly,Sometimes,1,10,7,No,Very easy,26-100,"No, I only became aware later","Yes, I experienced",No,Maybe/Not sure,"No, none of my previous supervisors","No, none did",2
-353,Not applicable to me,No,Not applicable to me,0,10,5,No,Somewhat easy,More than 1000,"Yes, I was aware of all of them",No,Yes,No,Some of my previous supervisors,"Yes, they all did",0
-354,Not applicable to me,No,Not applicable to me,0,10,8,No,Very easy,26-100,I was aware of some,"Yes, I observed",I don't know,No,Some of my previous supervisors,Some did,0
-355,Not applicable to me,No,Not applicable to me,0,5,0,No,I don't know,100-500,N/A (was not aware),"Yes, I observed",I don't know,No,Some of my previous supervisors,I don't know,0
-356,Often,Yes,Rarely,1,6,8,No,Somewhat easy,26-100,I was aware of some,"Yes, I experienced",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-357,Often,Yes,Rarely,1,5,5,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them","Yes, I observed",Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-358,Not applicable to me,No,Not applicable to me,0,5,5,Yes,Very easy,26-100,I was aware of some,No,I don't know,"Yes, I observed","Yes, all of my previous supervisors","Yes, they all did",0
-359,Not applicable to me,No,Not applicable to me,0,10,3,No,I don't know,26-100,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,0
-360,Not applicable to me,No,Not applicable to me,0,3,0,Yes,I don't know,26-100,N/A (none offered),No,I don't know,No,I don't know,"No, none did",0
-361,Often,Yes,Sometimes,1,9,7,I don't know,Somewhat difficult,100-500,"Yes, I was aware of all of them","Yes, I observed",Yes,No,Some of my previous supervisors,Some did,1
-362,Sometimes,Don't Know,Never,1,9,8,Yes,Difficult,26-100,I was aware of some,"Yes, I observed",Yes,No,Some of my previous supervisors,Some did,1
-363,Often,Yes,Rarely,1,9,8,I don't know,Somewhat easy,More than 1000,"No, I only became aware later",Maybe/Not sure,Yes,"Yes, I observed",Some of my previous supervisors,"Yes, they all did",2
-364,Often,Possibly,Sometimes,1,10,7,Yes,I don't know,100-500,N/A (none offered),No,I don't know,No,"Yes, all of my previous supervisors","No, none did",2
-365,Not applicable to me,Possibly,Not applicable to me,0,7,6,No,Somewhat easy,26-100,"No, I only became aware later",No,Yes,No,Some of my previous supervisors,Some did,0
-366,Often,Yes,Sometimes,1,8,5,Yes,Somewhat easy,100-500,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors","Yes, they all did",2
-367,Often,Yes,Rarely,1,9,6,I don't know,Neither easy nor difficult,26-100,I was aware of some,No,Yes,"Yes, I experienced",Some of my previous supervisors,Some did,1
-368,Not applicable to me,No,Not applicable to me,0,6,7,No,I don't know,26-100,N/A (was not aware),No,I don't know,No,I don't know,I don't know,0
-369,Often,Yes,Sometimes,1,8,3,Yes,Difficult,More than 1000,N/A (was not aware),No,Yes,No,"No, none of my previous supervisors",I don't know,2
-370,Not applicable to me,No,Not applicable to me,0,5,5,No,Somewhat easy,More than 1000,I was aware of some,I've always been self-employed,Yes,I've always been self-employed,Some of my previous supervisors,Some did,1
-371,Sometimes,No,Sometimes,0,8,2,I don't know,Somewhat easy,6-25,N/A (was not aware),Maybe/Not sure,No,Maybe/Not sure,I don't know,"No, none did",0
-372,Often,Yes,Rarely,1,9,5,Yes,Somewhat easy,More than 1000,I was aware of some,"Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-373,Often,Possibly,Often,0,3,6,Yes,I don't know,6-25,N/A (was not aware),Maybe/Not sure,No,"Yes, I experienced",Some of my previous supervisors,"No, none did",1
-374,Often,Yes,Sometimes,1,5,8,I don't know,Very easy,More than 1000,N/A (none offered),Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors","No, none did",2
-375,Sometimes,Possibly,Not applicable to me,0,3,9,Yes,I don't know,More than 1000,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors",Some did,1
-376,Sometimes,Possibly,Rarely,1,7,7,Yes,Somewhat easy,100-500,I was aware of some,"Yes, I experienced",Yes,"Yes, I observed","No, none of my previous supervisors",Some did,2
-377,Often,Yes,Rarely,1,9,8,Yes,Somewhat easy,More than 1000,N/A (was not aware),"Yes, I observed",Yes,"Yes, I experienced",Some of my previous supervisors,I don't know,2
-378,Sometimes,Yes,Yes,Yes,Yes,5,1,Somewhat easy,100-500,Some did,No,Yes,5,Physical health,1,1
-379,Not applicable to me,Possibly,Not applicable to me,1,7,3,I don't know,Difficult,More than 1000,I was aware of some,No,Not eligible for coverage / NA,No,"No, none of my previous supervisors",Some did,1
-380,Not applicable to me,No,Not applicable to me,0,5,5,I don't know,Difficult,100-500,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,0
-381,Often,Yes,Sometimes,1,10,5,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them",Maybe/Not sure,Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-382,Often,Yes,Rarely,1,3,1,No,Somewhat difficult,More than 1000,I was aware of some,"Yes, I observed",Yes,Maybe/Not sure,"No, none of my previous supervisors","Yes, they all did",2
-383,Often,Yes,Sometimes,1,8,7,I don't know,Neither easy nor difficult,More than 1000,I was aware of some,Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,Some did,2
-384,Not applicable to me,No,Not applicable to me,0,4,2,Yes,Difficult,100-500,N/A (was not aware),Maybe/Not sure,Not eligible for coverage / NA,No,"No, none of my previous supervisors",I don't know,1
-385,Not applicable to me,No,Not applicable to me,0,6,5,No,Neither easy nor difficult,26-100,N/A (none offered),Maybe/Not sure,Yes,No,"No, none of my previous supervisors","No, none did",1
-386,Sometimes,Yes,Rarely,1,10,8,Yes,Very easy,100-500,I was aware of some,"Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-387,Sometimes,Yes,Rarely,1,4,5,No,Difficult,6-25,I was aware of some,No,No,Maybe/Not sure,Some of my previous supervisors,Some did,2
-388,Not applicable to me,No,Not applicable to me,0,6,5,Yes,Somewhat easy,More than 1000,N/A (was not aware),Maybe/Not sure,Yes,No,"Yes, all of my previous supervisors",I don't know,1
-389,Often,Yes,Often,1,7,8,Yes,I don't know,More than 1000,N/A (was not aware),No,I don't know,"Yes, I experienced","No, none of my previous supervisors","No, none did",2
-390,Often,Yes,Rarely,1,10,7,Yes,I don't know,100-500,I was aware of some,Maybe/Not sure,Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-391,Rarely,Possibly,Rarely,0,7,7,No,I don't know,26-100,"No, I only became aware later",Maybe/Not sure,Not eligible for coverage / NA,Maybe/Not sure,"No, none of my previous supervisors",Some did,0
-392,Often,Yes,Often,1,9,10,Yes,Somewhat difficult,500-1000,N/A (was not aware),Maybe/Not sure,I don't know,"Yes, I observed","No, none of my previous supervisors",I don't know,2
-393,Not applicable to me,No,Not applicable to me,0,1,2,Yes,Difficult,More than 1000,N/A (was not aware),Maybe/Not sure,I don't know,No,"No, none of my previous supervisors",I don't know,0
-394,Not applicable to me,No,Not applicable to me,0,6,8,Yes,Somewhat easy,6-25,N/A (none offered),Maybe/Not sure,I don't know,Maybe/Not sure,I don't know,I don't know,1
-395,Often,Yes,Rarely,1,6,8,Yes,Neither easy nor difficult,More than 1000,I was aware of some,"Yes, I observed",Yes,No,Some of my previous supervisors,Some did,2
-396,Sometimes,Yes,Rarely,1,10,7,Yes,Very easy,More than 1000,N/A (none offered),"Yes, I experienced",Yes,"Yes, I experienced","No, none of my previous supervisors","No, none did",2
-397,Often,Yes,Often,1,8,5,I don't know,Somewhat easy,More than 1000,"Yes, I was aware of all of them",No,Yes,"Yes, I observed","No, none of my previous supervisors",Some did,2
-398,Sometimes,Possibly,Rarely,1,7,7,I don't know,I don't know,100-500,N/A (was not aware),Maybe/Not sure,Yes,Maybe/Not sure,"No, none of my previous supervisors",I don't know,1
-399,Not applicable to me,No,Not applicable to me,0,3,4,No,Very easy,26-100,I was aware of some,No,I don't know,No,Some of my previous supervisors,Some did,0
-400,Not applicable to me,No,Not applicable to me,0,6,5,I don't know,Somewhat easy,More than 1000,I was aware of some,I've always been self-employed,Yes,I've always been self-employed,Some of my previous supervisors,Some did,0
-401,Often,Yes,Not applicable to me,1,1,5,Yes,Somewhat easy,More than 1000,"Yes, I was aware of all of them",No,Yes,"Yes, I observed","No, none of my previous supervisors",Some did,2
-402,Rarely,Yes,Not applicable to me,1,2,6,No,Neither easy nor difficult,26-100,N/A (was not aware),"Yes, I observed",Yes,No,"No, none of my previous supervisors",Some did,1
-403,Often,Yes,Often,1,4,5,Yes,Difficult,100-500,N/A (none offered),No,I don't know,"Yes, I observed",Some of my previous supervisors,"No, none did",2
-404,Often,Yes,Sometimes,1,7,10,Yes,Somewhat easy,26-100,I was aware of some,"Yes, I experienced",Yes,"Yes, I experienced",Some of my previous supervisors,Some did,2
-405,Not applicable to me,No,Not applicable to me,0,5,0,No,Somewhat difficult,26-100,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,0
-406,Often,Yes,Sometimes,1,0,9,Yes,Difficult,26-100,N/A (was not aware),Maybe/Not sure,No,Maybe/Not sure,"Yes, all of my previous supervisors",I don't know,2
-407,Sometimes,Yes,Never,1,0,0,I don't know,Somewhat easy,1-5,I was aware of some,No,Not eligible for coverage / NA,No,"No, none of my previous supervisors",Some did,1
-408,Sometimes,Possibly,Sometimes,1,8,3,I don't know,Somewhat easy,More than 1000,I was aware of some,Maybe/Not sure,I don't know,Maybe/Not sure,Some of my previous supervisors,Some did,1
-409,Often,Yes,Sometimes,1,5,5,I don't know,Somewhat easy,More than 1000,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-410,Not applicable to me,No,Not applicable to me,0,10,5,Yes,Very easy,100-500,"Yes, I was aware of all of them","Yes, I observed",Yes,No,"No, none of my previous supervisors",Some did,0
-411,Sometimes,Yes,Sometimes,1,10,6,I don't know,Somewhat easy,6-25,N/A (none offered),Maybe/Not sure,Yes,Maybe/Not sure,I don't know,"No, none did",2
-412,Not applicable to me,Possibly,Not applicable to me,1,5,2,Yes,Very easy,6-25,N/A (none offered),No,I don't know,No,Some of my previous supervisors,"No, none did",0
-413,Often,Yes,Sometimes,1,8,6,Yes,Difficult,100-500,I was aware of some,No,Yes,"Yes, I experienced",Some of my previous supervisors,"Yes, they all did",2
-414,Often,Possibly,Not applicable to me,1,8,8,I don't know,I don't know,100-500,I was aware of some,No,Yes,No,Some of my previous supervisors,Some did,2
-415,Sometimes,Possibly,Sometimes,0,7,0,I don't know,Somewhat easy,6-25,N/A (was not aware),Maybe/Not sure,Yes,Maybe/Not sure,Some of my previous supervisors,I don't know,1
-416,Often,Yes,Rarely,1,10,10,I don't know,I don't know,More than 1000,"Yes, I was aware of all of them",Maybe/Not sure,Yes,"Yes, I observed",Some of my previous supervisors,Some did,2
+,interferes_with_work,prev_mental_disorder,if_it_interferes,Sought_Treatment,family_history_of_mental_health,are_you_willing_to_share_with_friends,emphasis_on_physical_health,medical_leave_for_depression,Number_of_employees_in_org,well_handled,comfortable_direct_sup_previous,aware_of_importance,previous_help,mental_health_allowance,employer_in_interview,Depression
+0,Sometimes,Yes,Rarely,1,Yes,3,8,Somewhat difficult,More than 1000,"Yes, I observed","No, none of my previous supervisors","No, I only became aware later","No, none did",Yes,No,2
+1,Often,Yes,Sometimes,1,Yes,3,8,Somewhat difficult,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+2,Not applicable to me,No,Not applicable to me,0,Yes,2,3,Somewhat easy,6-25,Maybe/Not sure,"No, none of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,0
+3,Not applicable to me,No,Not applicable to me,0,No,9,8,Neither easy nor difficult,6-25,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),"No, none did",No,No,0
+4,Sometimes,Yes,Rarely,1,Yes,7,7,Somewhat easy,26-100,"Yes, I observed",Some of my previous supervisors,N/A (none offered),"No, none did",Yes,Yes,2
+5,Not applicable to me,Don't Know,No,0,No,No,1,Somewhat easy,100-500,No,Same level of comfort for each,Some did,1,Yes,I like to be open and honest.  ,2
+6,Often,Don't Know,Often,1,No,6,4,I don't know,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+7,Often,Yes,Sometimes,1,I don't know,8,10,I don't know,26-100,"Yes, I experienced",I don't know,N/A (none offered),I don't know,Not eligible for coverage / NA,No,2
+8,Often,Yes,Not applicable to me,0,Yes,2,10,I don't know,More than 1000,No,Some of my previous supervisors,"No, I only became aware later",Some did,I don't know,No,2
+9,Not applicable to me,Don't Know,Not applicable to me,0,No,5,3,Somewhat difficult,More than 1000,No,"No, none of my previous supervisors",N/A (was not aware),Some did,Yes,No,1
+10,Sometimes,Possibly,Rarely,1,Yes,8,6,Somewhat easy,More than 1000,No,"No, none of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+11,Often,Yes,Sometimes,1,I don't know,7,6,Very easy,500-1000,"Yes, I experienced","No, none of my previous supervisors",N/A (none offered),"No, none did",No,No,2
+12,Not applicable to me,No,Not applicable to me,0,Yes,4,1,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+13,Sometimes,Possibly,Rarely,0,Yes,2,7,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+14,Sometimes,Yes,Sometimes,1,No,8,6,Neither easy nor difficult,100-500,No,Some of my previous supervisors,I was aware of some,Some did,No,No,2
+15,Often,Yes,Sometimes,1,Yes,9,5,Somewhat difficult,6-25,No,"No, none of my previous supervisors",N/A (was not aware),Some did,Yes,No,2
+16,Rarely,Yes,Rarely,0,Yes,8,6,Neither easy nor difficult,26-100,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+17,Often,Yes,Never,1,I don't know,8,10,I don't know,More than 1000,"Yes, I observed","No, none of my previous supervisors","No, I only became aware later","No, none did",Yes,No,2
+18,Not applicable to me,No,Not applicable to me,0,Yes,7,4,Difficult,500-1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",No,No,1
+19,Often,Yes,Sometimes,1,I don't know,10,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,N/A (none offered),"No, none did",Yes,Maybe,2
+20,Sometimes,Yes,Rarely,1,Yes,8,2,Somewhat easy,26-100,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,Maybe,2
+21,Often,Yes,Rarely,1,Yes,8,5,Somewhat easy,100-500,No,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+22,Often,Yes,Rarely,1,Yes,9,5,Somewhat easy,More than 1000,Maybe/Not sure,"Yes, all of my previous supervisors",N/A (was not aware),I don't know,Yes,Yes,0
+23,Not applicable to me,Don't Know,Not applicable to me,1,I don't know,6,4,Very easy,100-500,No,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+24,Not applicable to me,No,Not applicable to me,0,No,6,5,Somewhat difficult,6-25,No,I don't know,N/A (was not aware),I don't know,I don't know,No,0
+25,Often,Yes,Rarely,1,I don't know,7,7,Very easy,6-25,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,No,No,0
+26,Often,No,Often,0,No,5,5,Difficult,26-100,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",No,No,0
+27,Sometimes,Possibly,Rarely,0,I don't know,5,8,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,N/A (none offered),"No, none did",I don't know,No,2
+28,Rarely,Yes,Sometimes,1,Yes,9,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors","No, I only became aware later","No, none did",Yes,No,2
+29,Often,Yes,Yes,Possibly,1,8,5,Difficult,6-25,3,Physical health,"No, none did",1,I don't know,Stigma still exists I am afraid. Physical health is accepted but mental health issues are not. I also believe mental health issues are a higher risk to a company ,1
+30,Sometimes,Possibly,Not applicable to me,0,I don't know,5,5,Neither easy nor difficult,26-100,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+31,Not applicable to me,No,Not applicable to me,0,No,7,6,I don't know,100-500,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",I don't know,Yes,1
+32,Often,Don't Know,Not applicable to me,0,I don't know,5,7,Very easy,500-1000,"Yes, I observed","No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+33,Often,Yes,Not applicable to me,1,Yes,2,7,I don't know,More than 1000,No,Some of my previous supervisors,I was aware of some,"No, none did",I don't know,No,2
+34,Often,Yes,Often,1,No,2,6,Difficult,6-25,No,"No, none of my previous supervisors","Yes, I was aware of all of them",Some did,Not eligible for coverage / NA,No,2
+35,Not applicable to me,No,Not applicable to me,0,I don't know,8,7,I don't know,6-25,Maybe/Not sure,Some of my previous supervisors,I was aware of some,I don't know,Yes,No,0
+36,Often,Yes,Sometimes,1,Yes,8,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+37,Not applicable to me,No,Not applicable to me,0,No,8,7,Somewhat easy,100-500,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,0
+38,Sometimes,Yes,Rarely,1,No,6,8,Neither easy nor difficult,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+39,Sometimes,Possibly,Sometimes,0,No,8,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+40,Often,Yes,Sometimes,1,Yes,9,5,I don't know,26-100,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,2
+41,Often,Yes,Never,1,Yes,10,10,Very easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+42,Not applicable to me,No,Not applicable to me,0,Yes,3,5,Somewhat easy,More than 1000,"Yes, I experienced","Yes, all of my previous supervisors",N/A (none offered),"No, none did",Yes,Yes,1
+43,Not applicable to me,Don't Know,Not applicable to me,0,I don't know,4,5,Somewhat easy,More than 1000,"Yes, I observed","Yes, all of my previous supervisors",N/A (none offered),"No, none did",Yes,No,1
+44,Sometimes,Don't Know,Not applicable to me,0,I don't know,0,5,Somewhat difficult,26-100,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,1
+45,Often,Possibly,Rarely,1,Yes,8,9,Very easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,N/A (none offered),"No, none did",Yes,No,2
+46,Not applicable to me,No,Not applicable to me,0,I don't know,7,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,Maybe,0
+47,Not applicable to me,No,Not applicable to me,0,No,7,6,Difficult,26-100,Maybe/Not sure,I don't know,N/A (was not aware),"No, none did",No,No,2
+48,Sometimes,Yes,Rarely,0,No,10,8,Very easy,26-100,"Yes, I experienced","No, none of my previous supervisors",N/A (was not aware),I don't know,No,No,2
+49,Sometimes,Yes,Never,1,No,8,2,Difficult,26-100,Maybe/Not sure,"No, none of my previous supervisors",N/A (none offered),"No, none did",No,No,2
+50,Not applicable to me,No,Not applicable to me,0,Yes,0,10,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",I don't know,No,0
+51,Often,No,Sometimes,1,Yes,10,5,I don't know,100-500,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,Maybe,2
+52,Not applicable to me,No,Not applicable to me,0,Yes,5,7,Very easy,More than 1000,"Yes, I observed",Some of my previous supervisors,N/A (none offered),"No, none did",Yes,No,0
+53,Often,Yes,Rarely,1,Yes,10,5,Somewhat difficult,100-500,No,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+54,Often,Yes,Sometimes,1,Yes,7,10,Somewhat easy,500-1000,Maybe/Not sure,Some of my previous supervisors,N/A (none offered),"No, none did",I don't know,No,2
+55,Not applicable to me,No,Not applicable to me,0,No,5,7,I don't know,6-25,No,I don't know,N/A (none offered),"No, none did",I don't know,Maybe,0
+56,Not applicable to me,Don't Know,Not applicable to me,1,I don't know,10,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,1
+57,Never,No,Rarely,0,No,5,7,Somewhat difficult,500-1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+58,Sometimes,Possibly,Rarely,1,Yes,9,8,Very easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+59,Rarely,Yes,Rarely,1,No,8,3,Somewhat easy,6-25,No,Some of my previous supervisors,I was aware of some,"Yes, they all did",I don't know,Maybe,0
+60,Sometimes,Yes,Rarely,1,Yes,7,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,N/A (was not aware),I don't know,Yes,No,2
+61,Not applicable to me,No,Not applicable to me,0,No,3,5,Very easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+62,Often,Yes,Rarely,1,No,5,5,I don't know,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+63,Often,Yes,Often,1,Yes,7,5,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,No,2
+64,Rarely,Possibly,Not applicable to me,0,I don't know,5,10,I don't know,26-100,No,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+65,Often,Yes,Sometimes,1,Yes,5,8,I don't know,6-25,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+66,Not applicable to me,No,Not applicable to me,0,No,4,4,Somewhat difficult,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+67,Often,Possibly,Sometimes,1,Yes,10,6,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+68,Often,No,Often,1,Yes,6,2,Somewhat easy,1-5,Maybe/Not sure,"Yes, all of my previous supervisors",N/A (was not aware),I don't know,No,Yes,2
+69,Often,Yes,Often,1,I don't know,1,5,Somewhat difficult,500-1000,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+70,Not applicable to me,No,Not applicable to me,0,Yes,8,3,Somewhat easy,More than 1000,"Yes, I observed","Yes, all of my previous supervisors",I was aware of some,Some did,Yes,No,0
+71,Not applicable to me,No,Not applicable to me,0,No,6,3,Difficult,6-25,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+72,Often,Yes,Rarely,1,Yes,9,5,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,N/A (none offered),"No, none did",Yes,No,2
+73,Often,Yes,Sometimes,1,I don't know,2,5,Somewhat easy,6-25,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,2
+74,Not applicable to me,No,Not applicable to me,0,No,7,4,Somewhat difficult,6-25,Maybe/Not sure,Some of my previous supervisors,N/A (none offered),"No, none did",I don't know,No,0
+75,Sometimes,No,Sometimes,0,No,2,7,Very easy,6-25,Maybe/Not sure,I don't know,N/A (was not aware),"No, none did",Yes,No,0
+76,Often,Yes,Rarely,1,I don't know,10,6,Neither easy nor difficult,100-500,"Yes, I experienced","No, none of my previous supervisors",I was aware of some,Some did,Yes,Maybe,2
+77,Often,Yes,Never,1,Yes,10,5,I don't know,100-500,No,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+78,Not applicable to me,No,Not applicable to me,0,No,8,5,Very easy,26-100,No,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,Maybe,0
+79,Often,Yes,Sometimes,1,Yes,8,7,I don't know,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+80,Not applicable to me,No,Not applicable to me,0,No,1,7,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,0
+81,Sometimes,Yes,Rarely,1,No,10,7,Somewhat easy,More than 1000,"Yes, I experienced","No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,Maybe,2
+82,Not applicable to me,Don't Know,Not applicable to me,0,Yes,2,5,Difficult,6-25,No,Some of my previous supervisors,N/A (was not aware),I don't know,I don't know,Maybe,1
+83,Often,Possibly,Not applicable to me,0,Yes,0,0,Somewhat difficult,6-25,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+84,Often,Yes,Rarely,1,I don't know,10,5,I don't know,More than 1000,No,"No, none of my previous supervisors","No, I only became aware later","Yes, they all did",Yes,No,2
+85,Sometimes,Yes,Rarely,1,Yes,8,4,Neither easy nor difficult,6-25,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+86,Sometimes,Possibly,Sometimes,0,No,5,5,Neither easy nor difficult,26-100,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,Maybe,1
+87,Often,Yes,Sometimes,1,Yes,10,9,Very easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+88,Not applicable to me,No,Not applicable to me,0,No,4,2,Somewhat easy,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+89,Often,Yes,Sometimes,1,Yes,10,5,Neither easy nor difficult,More than 1000,"Yes, I experienced","Yes, all of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,Maybe,2
+90,Not applicable to me,No,Sometimes,0,No,7,7,Somewhat easy,6-25,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,No,Maybe,0
+91,Not applicable to me,No,Not applicable to me,1,Yes,8,6,Somewhat difficult,100-500,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,0
+92,Often,No,Rarely,0,No,5,5,Somewhat easy,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+93,Not applicable to me,No,Not applicable to me,0,Yes,2,7,Difficult,More than 1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,No,No,0
+94,Not applicable to me,Possibly,Not applicable to me,0,No,10,6,Somewhat difficult,26-100,No,"No, none of my previous supervisors",N/A (was not aware),"No, none did",I don't know,No,0
+95,Sometimes,Yes,Rarely,1,I don't know,8,8,Somewhat easy,500-1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+96,Often,Yes,Sometimes,1,Yes,10,5,Somewhat easy,100-500,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+97,Often,Possibly,Sometimes,1,No,8,5,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+98,Not applicable to me,No,Not applicable to me,0,No,10,0,Difficult,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",No,Maybe,0
+99,Not applicable to me,Don't Know,Not applicable to me,0,Yes,7,7,I don't know,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,Maybe,1
+100,Not applicable to me,No,Not applicable to me,0,No,10,10,Very easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+101,Often,Yes,Rarely,1,Yes,2,0,Difficult,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",No,No,2
+102,Not applicable to me,No,Not applicable to me,0,No,1,5,Somewhat easy,More than 1000,I've always been self-employed,Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+103,Not applicable to me,Possibly,Not applicable to me,1,Yes,10,10,Very easy,100-500,"Yes, I observed","Yes, all of my previous supervisors",I was aware of some,Some did,Yes,No,0
+104,Not applicable to me,No,Not applicable to me,0,No,8,6,Very easy,100-500,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,Not eligible for coverage / NA,Maybe,0
+105,Often,Possibly,Rarely,1,Yes,10,3,Somewhat difficult,1-5,No,"No, none of my previous supervisors",N/A (was not aware),"No, none did",I don't know,No,2
+106,Often,Yes,Sometimes,1,Yes,10,7,Difficult,6-25,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,Not eligible for coverage / NA,No,2
+107,Not applicable to me,No,Not applicable to me,0,I don't know,9,9,Somewhat difficult,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+108,Not applicable to me,No,Not applicable to me,0,No,4,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors","No, I only became aware later","Yes, they all did",Yes,Maybe,0
+109,Often,Possibly,Rarely,1,Yes,9,7,Somewhat difficult,More than 1000,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),"Yes, they all did",Yes,No,1
+110,Often,Yes,Sometimes,0,No,9,9,I don't know,6-25,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+111,Not applicable to me,Possibly,Not applicable to me,1,Yes,8,8,I don't know,500-1000,"Yes, I observed",Some of my previous supervisors,N/A (none offered),I don't know,Yes,Maybe,2
+112,Rarely,No,Often,1,I don't know,4,4,Somewhat easy,6-25,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),"No, none did",No,No,0
+113,Often,Don't Know,Rarely,1,Yes,9,8,Somewhat easy,26-100,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,I don't know,Maybe,2
+114,Not applicable to me,No,Not applicable to me,0,No,7,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,N/A (was not aware),Some did,Yes,Maybe,0
+115,Rarely,Yes,Sometimes,0,No,9,5,Somewhat easy,26-100,No,"Yes, all of my previous supervisors",I was aware of some,Some did,Yes,No,0
+116,Rarely,Yes,Rarely,1,No,10,5,Difficult,6-25,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+117,Often,Yes,Often,1,Yes,2,3,Neither easy nor difficult,6-25,No,"No, none of my previous supervisors","No, I only became aware later",Some did,I don't know,No,2
+118,Often,No,Often,1,I don't know,10,7,Very easy,More than 1000,No,"No, none of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+119,Not applicable to me,Possibly,Not applicable to me,1,Yes,8,8,Somewhat easy,500-1000,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,No,2
+120,Sometimes,Yes,Rarely,1,Yes,6,6,Somewhat easy,100-500,No,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,0
+121,Not applicable to me,Yes,Rarely,1,No,5,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,No,0
+122,Often,Yes,Rarely,1,Yes,9,5,Somewhat easy,More than 1000,"Yes, I observed","No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+123,Often,Yes,Often,1,Yes,8,3,Neither easy nor difficult,6-25,"Yes, I experienced",Some of my previous supervisors,"No, I only became aware later","No, none did",Yes,No,2
+124,Sometimes,Yes,Rarely,1,Yes,5,6,Somewhat difficult,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,1
+125,Often,Yes,Sometimes,1,I don't know,10,5,Somewhat easy,More than 1000,Maybe/Not sure,"Yes, all of my previous supervisors",N/A (none offered),I don't know,Yes,Maybe,2
+126,Often,Possibly,Sometimes,0,I don't know,2,9,Very easy,26-100,"Yes, I experienced","No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+127,Often,No,Rarely,0,Yes,8,7,Somewhat difficult,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,No,2
+128,Often,Yes,Rarely,1,Yes,7,6,I don't know,6-25,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Not eligible for coverage / NA,No,2
+129,Not applicable to me,No,Not applicable to me,0,No,7,7,Somewhat easy,6-25,"Yes, I observed","Yes, all of my previous supervisors",N/A (was not aware),I don't know,I don't know,Maybe,0
+130,Sometimes,No,Sometimes,1,Yes,3,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+131,Often,Yes,Sometimes,1,Yes,10,8,I don't know,6-25,No,Some of my previous supervisors,N/A (was not aware),Some did,Yes,Yes,0
+132,Sometimes,Yes,Sometimes,1,Yes,9,9,Somewhat difficult,500-1000,No,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+133,Rarely,No,Rarely,0,I don't know,7,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+134,Often,Yes,Sometimes,1,Yes,5,2,I don't know,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Not eligible for coverage / NA,No,2
+135,Not applicable to me,No,Not applicable to me,0,No,5,8,Very easy,26-100,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),"No, none did",Yes,No,0
+136,Sometimes,Yes,Rarely,1,Yes,6,8,Somewhat easy,100-500,"Yes, I experienced","No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+137,Not applicable to me,No,Not applicable to me,0,No,9,7,Very easy,26-100,"Yes, I observed","No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,0
+138,Often,Yes,Sometimes,1,Yes,10,8,Very easy,26-100,"Yes, I experienced","No, none of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+139,Often,Yes,Sometimes,1,Yes,5,5,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+140,Often,Yes,Sometimes,1,Yes,10,3,I don't know,26-100,No,Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,Yes,2
+141,Often,Yes,Never,1,Yes,5,5,Neither easy nor difficult,500-1000,No,"No, none of my previous supervisors","No, I only became aware later",Some did,Yes,No,2
+142,Often,Yes,Rarely,1,Yes,10,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,N/A (was not aware),"No, none did",Yes,Yes,2
+143,Sometimes,Possibly,Sometimes,1,Yes,8,3,I don't know,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+144,Not applicable to me,Possibly,Not applicable to me,1,Yes,8,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,I don't know,Yes,Maybe,0
+145,Not applicable to me,Possibly,Not applicable to me,1,No,7,6,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+146,Often,Yes,Never,0,Yes,3,3,Somewhat easy,100-500,"Yes, I observed",Some of my previous supervisors,I was aware of some,"No, none did",Yes,No,2
+147,Often,Yes,Sometimes,1,Yes,9,8,I don't know,More than 1000,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
+148,Often,Yes,Sometimes,1,No,9,9,Very easy,6-25,"Yes, I experienced",Some of my previous supervisors,N/A (none offered),"No, none did",Yes,No,2
+149,Rarely,Yes,Sometimes,0,I don't know,8,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+150,Not applicable to me,No,Not applicable to me,0,No,6,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,0
+151,Not applicable to me,Yes,Not applicable to me,1,I don't know,6,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,1
+152,Often,Yes,Rarely,1,Yes,10,4,Difficult,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+153,Sometimes,Yes,Yes,Yes,1,Yes,"Discussed issues with a coworker friend who also has issues, we traded advice mostly",I don't know,500-1000,Coworkers were derogatory towards people and received no reprimand,Physical health,Some did,0,Yes,"Physical issues are traditionally easier to accomodate and I could prove that I can still do the job while having physical health issues.  It's way harder to ask for mental accomodations without couching them in certain ways, and I usually ask about them in the context of general benefits",1
+154,Often,Yes,Sometimes,1,Yes,7,7,Very easy,More than 1000,"Yes, I observed","No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+155,Not applicable to me,No,Not applicable to me,0,No,7,6,Somewhat easy,26-100,No,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,0
+156,Often,Yes,Sometimes,1,I don't know,8,7,I don't know,100-500,"Yes, I experienced",Some of my previous supervisors,N/A (was not aware),Some did,Yes,Maybe,2
+157,Not applicable to me,No,Not applicable to me,0,Yes,8,6,Somewhat difficult,100-500,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,1
+158,Not applicable to me,No,Not applicable to me,0,No,5,5,Neither easy nor difficult,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,Maybe,0
+159,Sometimes,Yes,Rarely,1,I don't know,9,6,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,Maybe,2
+160,Not applicable to me,No,Not applicable to me,0,No,3,5,Somewhat easy,More than 1000,Maybe/Not sure,I don't know,I was aware of some,Some did,Yes,No,0
+161,Often,Possibly,Rarely,1,No,6,10,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+162,Not applicable to me,Yes,Not applicable to me,1,Yes,9,8,Very easy,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Not eligible for coverage / NA,Yes,2
+163,Often,Yes,Sometimes,1,Yes,8,8,Somewhat easy,1-5,"Yes, I experienced",Some of my previous supervisors,"No, I only became aware later",Some did,No,No,2
+164,Often,Yes,Sometimes,1,Yes,9,5,Somewhat easy,500-1000,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
+165,Not applicable to me,No,Sometimes,0,No,4,6,Somewhat easy,1-5,No,Some of my previous supervisors,I was aware of some,Some did,No,Maybe,0
+166,Often,Don't Know,Not applicable to me,0,I don't know,0,10,Very easy,100-500,Maybe/Not sure,"No, none of my previous supervisors",N/A (none offered),"No, none did",Not eligible for coverage / NA,No,2
+167,Often,No,Rarely,1,Yes,1,3,Difficult,100-500,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+168,Not applicable to me,No,Not applicable to me,0,No,9,7,Very easy,100-500,Maybe/Not sure,I don't know,N/A (was not aware),I don't know,Yes,No,0
+169,Sometimes,Yes,Rarely,0,I don't know,3,7,Neither easy nor difficult,More than 1000,No,Some of my previous supervisors,"No, I only became aware later",Some did,Yes,No,2
+170,Not applicable to me,Don't Know,Not applicable to me,0,I don't know,4,5,Somewhat easy,More than 1000,"Yes, I observed","Yes, all of my previous supervisors",N/A (was not aware),Some did,Yes,No,0
+171,Sometimes,Yes,Sometimes,1,I don't know,10,7,Somewhat difficult,26-100,"Yes, I observed",I don't know,N/A (was not aware),Some did,Yes,No,2
+172,Sometimes,Yes,Rarely,1,Yes,9,8,Neither easy nor difficult,6-25,Maybe/Not sure,I don't know,N/A (none offered),"No, none did",I don't know,Maybe,2
+173,Not applicable to me,Possibly,Not applicable to me,0,Yes,7,5,Somewhat easy,6-25,"Yes, I observed","No, none of my previous supervisors",N/A (was not aware),I don't know,No,Maybe,2
+174,Not applicable to me,Don't Know,Not applicable to me,0,I don't know,0,2,Very easy,6-25,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,1
+175,Often,Possibly,Rarely,1,No,6,5,Very easy,100-500,"Yes, I observed",Some of my previous supervisors,"No, I only became aware later","No, none did",Yes,No,1
+176,Not applicable to me,No,Not applicable to me,0,Yes,8,5,Somewhat easy,100-500,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,0
+177,Not applicable to me,Don't Know,Not applicable to me,0,No,7,8,Somewhat easy,More than 1000,No,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,No,1
+178,Sometimes,Possibly,Rarely,1,Yes,9,10,Somewhat easy,100-500,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,0
+179,Not applicable to me,No,Not applicable to me,0,No,7,6,I don't know,26-100,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,0
+180,Often,Yes,Sometimes,1,Yes,4,6,Somewhat difficult,100-500,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+181,Not applicable to me,No,Not applicable to me,0,Yes,6,5,Somewhat easy,26-100,"Yes, I observed",Some of my previous supervisors,I was aware of some,"Yes, they all did",I don't know,No,1
+182,Often,Possibly,Sometimes,0,Yes,7,5,Very easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,I don't know,Maybe,2
+183,Sometimes,Yes,Never,1,No,10,7,Very easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,Maybe,2
+184,Not applicable to me,No,Not applicable to me,1,Yes,7,5,Very easy,100-500,"Yes, I observed",I don't know,I was aware of some,"Yes, they all did",Yes,No,0
+185,Often,Yes,Sometimes,1,Yes,10,8,Somewhat easy,500-1000,"Yes, I experienced",I don't know,N/A (was not aware),I don't know,Yes,Maybe,2
+186,Often,Yes,Rarely,1,Yes,7,4,Somewhat easy,100-500,No,"Yes, all of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,0
+187,Often,Yes,Sometimes,1,I don't know,3,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+188,Rarely,Yes,Rarely,1,Yes,10,7,Very easy,26-100,No,Some of my previous supervisors,N/A (was not aware),I don't know,I don't know,Yes,0
+189,Often,Yes,Sometimes,1,Yes,8,6,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+190,Often,Yes,Sometimes,1,No,4,6,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,No,2
+191,Not applicable to me,Don't Know,Not applicable to me,1,No,5,5,I don't know,More than 1000,No,I don't know,N/A (none offered),"No, none did",I don't know,No,2
+192,Often,Yes,Sometimes,1,Yes,7,8,Neither easy nor difficult,More than 1000,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+193,Sometimes,Yes,Not applicable to me,1,Yes,10,8,Somewhat easy,26-100,"Yes, I experienced","Yes, all of my previous supervisors",I was aware of some,Some did,I don't know,No,2
+194,Often,Don't Know,Rarely,0,Yes,9,9,Somewhat easy,100-500,Maybe/Not sure,"Yes, all of my previous supervisors",N/A (was not aware),I don't know,Yes,No,0
+195,Not applicable to me,Possibly,Not applicable to me,1,Yes,7,7,Somewhat easy,100-500,Maybe/Not sure,Some of my previous supervisors,N/A (none offered),"No, none did",I don't know,No,0
+196,Often,Yes,Rarely,1,Yes,10,5,Neither easy nor difficult,More than 1000,"Yes, I experienced","No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+197,Sometimes,Possibly,Not applicable to me,0,I don't know,4,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (was not aware),"No, none did",Yes,No,2
+198,Often,Yes,Rarely,1,Yes,5,10,Difficult,100-500,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,No,No,2
+199,Often,Yes,Rarely,1,Yes,5,7,Neither easy nor difficult,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+200,Not applicable to me,Yes,Rarely,1,No,8,7,Somewhat easy,100-500,"Yes, I observed",Some of my previous supervisors,I was aware of some,I don't know,Yes,No,0
+201,Not applicable to me,No,Not applicable to me,0,No,4,4,Somewhat easy,More than 1000,No,I don't know,N/A (was not aware),I don't know,Yes,No,0
+202,Often,Yes,Often,1,Yes,2,9,Somewhat difficult,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+203,Sometimes,Yes,Rarely,1,Yes,8,5,Very easy,100-500,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+204,Often,Yes,Sometimes,1,I don't know,9,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+205,Often,Yes,Sometimes,1,Yes,5,5,Very easy,26-100,"Yes, I observed","No, none of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+206,Rarely,Yes,Yes,Yes,1,No,We spoke about how work was impacting their mental state and it helped me understand and better relate and accommodate that individual. ,Difficult,More than 1000,One of my similarly affected colleagues needed time off as he reached a breaking point. He was harangued for being needy and shuffled around to other groups instead of being given the time needed to heal. ,Physical health,Some did,1,No,Insurance costs and bias might lead to equal weight candidates being eliminated based on preexisting conditions or perceived ailments that might require time off. ,1
+207,Often,Yes,Often,1,Yes,7,0,Difficult,6-25,"Yes, I observed",Some of my previous supervisors,"No, I only became aware later",Some did,I don't know,No,2
+208,Often,Possibly,Sometimes,1,Yes,5,4,Somewhat difficult,100-500,"Yes, I observed","Yes, all of my previous supervisors",I was aware of some,Some did,I don't know,No,2
+209,Not applicable to me,No,Not applicable to me,0,No,8,7,I don't know,100-500,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,0
+210,Often,Yes,Sometimes,1,Yes,6,6,Somewhat easy,6-25,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Not eligible for coverage / NA,No,2
+211,Sometimes,Possibly,Not applicable to me,0,No,8,5,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,"No, I only became aware later",Some did,Yes,Maybe,1
+212,Not applicable to me,Don't Know,Sometimes,1,No,5,5,Very easy,100-500,"Yes, I experienced",Some of my previous supervisors,N/A (was not aware),"No, none did",I don't know,Maybe,2
+213,Not applicable to me,Yes,Not applicable to me,0,No,4,3,I don't know,26-100,No,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,1
+214,Sometimes,Yes,Sometimes,1,I don't know,8,2,Difficult,100-500,"Yes, I observed","No, none of my previous supervisors","No, I only became aware later",Some did,I don't know,No,2
+215,Not applicable to me,No,Not applicable to me,0,No,8,5,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,N/A (none offered),"No, none did",Yes,Maybe,0
+216,Often,Yes,Rarely,1,Yes,10,10,I don't know,6-25,"Yes, I observed","Yes, all of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+217,Not applicable to me,No,Not applicable to me,1,No,10,0,Very easy,6-25,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,0
+218,Often,Yes,Rarely,1,Yes,8,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+219,Often,Yes,Sometimes,1,Yes,8,6,I don't know,26-100,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),I don't know,I don't know,No,2
+220,Often,Yes,Rarely,1,I don't know,0,0,Somewhat easy,6-25,No,"No, none of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+221,Not applicable to me,No,Not applicable to me,1,Yes,5,5,Very easy,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,0
+222,Often,Yes,Sometimes,1,Yes,7,5,Somewhat difficult,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+223,Not applicable to me,No,Not applicable to me,0,No,6,5,Somewhat easy,6-25,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,Maybe,0
+224,Not applicable to me,No,Not applicable to me,0,No,4,1,I don't know,6-25,No,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,0
+225,Often,Yes,Often,1,I don't know,10,6,Somewhat difficult,100-500,No,Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,No,2
+226,Often,Yes,Sometimes,1,I don't know,4,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors","Yes, I was aware of all of them",Some did,Yes,No,2
+227,Often,Yes,Often,1,Yes,8,1,Difficult,More than 1000,No,"No, none of my previous supervisors",I was aware of some,Some did,No,No,2
+228,Rarely,Yes,Yes,Yes,1,Yes, it wasn't a positive conversation. ,Very easy,More than 1000,"A coworker was threatening self-harm in her office; the campus police were called in; she was removed, and then dismissed. She became the subject of rumors and gossip, and eventually left. ",Physical health,"Yes, they all did",0,Yes,I don't want to be seen as weak. ,1
+229,Often,Yes,Rarely,1,Yes,8,7,Difficult,500-1000,No,Some of my previous supervisors,"Yes, I was aware of all of them",Some did,No,No,2
+230,Not applicable to me,Possibly,Sometimes,1,Yes,5,6,Somewhat easy,100-500,"Yes, I observed",I don't know,N/A (none offered),"No, none did",Yes,No,2
+231,Often,Don't Know,Rarely,1,Yes,7,0,Difficult,100-500,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",No,No,2
+232,Often,Possibly,Rarely,1,I don't know,8,7,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+233,Not applicable to me,Possibly,Not applicable to me,0,Yes,5,7,Somewhat easy,26-100,"Yes, I observed",Some of my previous supervisors,N/A (none offered),"No, none did",I don't know,No,1
+234,Not applicable to me,No,Not applicable to me,0,I don't know,6,9,I don't know,500-1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",I don't know,No,2
+235,Often,Yes,Rarely,1,Yes,10,5,Somewhat easy,6-25,No,Some of my previous supervisors,I was aware of some,Some did,No,Maybe,0
+236,Often,Possibly,Rarely,1,Yes,9,7,Neither easy nor difficult,500-1000,No,"No, none of my previous supervisors","No, I only became aware later",Some did,Yes,Maybe,2
+237,Sometimes,Don't Know,Rarely,1,I don't know,6,7,Very easy,100-500,"Yes, I observed","No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+238,Often,Yes,Not applicable to me,1,Yes,9,5,I don't know,100-500,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+239,Not applicable to me,No,Not applicable to me,0,No,6,8,Somewhat easy,26-100,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,0
+240,Not applicable to me,No,Not applicable to me,0,No,6,5,Neither easy nor difficult,More than 1000,"Yes, I observed",Some of my previous supervisors,N/A (was not aware),I don't know,I don't know,Maybe,0
+241,Not applicable to me,No,Not applicable to me,0,No,8,6,Somewhat easy,500-1000,Maybe/Not sure,"Yes, all of my previous supervisors",I was aware of some,"Yes, they all did",Yes,No,2
+242,Rarely,No,Rarely,1,I don't know,6,7,Somewhat easy,More than 1000,No,Some of my previous supervisors,"No, I only became aware later",Some did,Yes,No,2
+243,Sometimes,Possibly,Not applicable to me,1,Yes,9,7,Somewhat difficult,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+244,Not applicable to me,No,Not applicable to me,0,No,9,7,Very easy,100-500,Maybe/Not sure,Some of my previous supervisors,I was aware of some,I don't know,I don't know,Maybe,0
+245,Often,Yes,Often,1,Yes,3,10,Somewhat difficult,6-25,"Yes, I observed","No, none of my previous supervisors","Yes, I was aware of all of them",I don't know,Not eligible for coverage / NA,Maybe,2
+246,Sometimes,Possibly,Rarely,1,Yes,10,8,Somewhat easy,100-500,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+247,Sometimes,Yes,Never,1,Yes,9,2,I don't know,6-25,No,Some of my previous supervisors,I was aware of some,Some did,Not eligible for coverage / NA,No,2
+248,Sometimes,Possibly,Rarely,1,Yes,9,7,Very easy,100-500,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+249,Often,Yes,Often,1,Yes,10,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,Maybe,2
+250,Often,Possibly,Sometimes,1,No,7,3,I don't know,More than 1000,"Yes, I experienced",Some of my previous supervisors,N/A (was not aware),Some did,Yes,Maybe,2
+251,Often,Yes,Rarely,1,Yes,9,3,Neither easy nor difficult,500-1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+252,Not applicable to me,Possibly,Not applicable to me,0,Yes,5,5,Very easy,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,0
+253,Often,Yes,Sometimes,1,I don't know,8,6,Very easy,100-500,"Yes, I experienced","No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,Yes,2
+254,Often,Yes,Sometimes,1,Yes,5,7,Neither easy nor difficult,26-100,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+255,Often,Possibly,Sometimes,1,I don't know,8,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,N/A (was not aware),"No, none did",Yes,No,2
+256,Often,Yes,Often,1,Yes,10,6,Somewhat easy,100-500,"Yes, I experienced",I don't know,"No, I only became aware later","No, none did",Yes,No,2
+257,Sometimes,Yes,Rarely,1,Yes,8,6,Somewhat difficult,26-100,Maybe/Not sure,I don't know,"No, I only became aware later",I don't know,Yes,No,2
+258,Sometimes,Yes,Rarely,1,No,5,5,Neither easy nor difficult,6-25,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,Some did,I don't know,No,0
+259,Sometimes,Yes,Rarely,1,Yes,10,6,I don't know,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+260,Sometimes,Yes,Rarely,1,Yes,10,5,Somewhat easy,26-100,"Yes, I experienced","No, none of my previous supervisors",N/A (none offered),"No, none did",No,Maybe,0
+261,Often,Yes,Sometimes,1,Yes,10,3,I don't know,100-500,"Yes, I experienced","Yes, all of my previous supervisors","Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+262,Often,Don't Know,Not applicable to me,0,Yes,10,2,I don't know,More than 1000,No,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+263,Often,Yes,Rarely,1,Yes,2,7,Somewhat easy,100-500,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+264,Not applicable to me,No,Not applicable to me,0,Yes,7,7,Somewhat easy,100-500,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,Yes,0
+265,Often,Yes,Sometimes,1,Yes,7,9,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+266,Often,Yes,Rarely,1,Yes,10,8,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,Maybe,2
+267,Often,Yes,Often,1,Yes,7,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",I was aware of some,"Yes, they all did",Yes,No,2
+268,Sometimes,Yes,Rarely,1,No,4,6,Very easy,6-25,"Yes, I experienced","Yes, all of my previous supervisors",N/A (was not aware),"Yes, they all did",Yes,No,2
+269,Not applicable to me,Don't Know,Not applicable to me,0,I don't know,3,2,Neither easy nor difficult,More than 1000,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,1
+270,Sometimes,No,Rarely,0,No,5,8,Very easy,26-100,No,"No, none of my previous supervisors",N/A (was not aware),"No, none did",No,No,2
+271,Sometimes,Yes,Never,1,No,10,8,I don't know,100-500,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),"Yes, they all did",Yes,No,2
+272,Not applicable to me,Possibly,Not applicable to me,1,Yes,7,7,I don't know,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,"Yes, they all did",I don't know,No,2
+273,Sometimes,Don't Know,Sometimes,0,No,5,8,Somewhat easy,100-500,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,I don't know,No,1
+274,Not applicable to me,Don't Know,Not applicable to me,0,I don't know,8,5,I don't know,100-500,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,No,1
+275,Often,No,Not applicable to me,0,I don't know,8,8,I don't know,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",N/A (none offered),"No, none did",Not eligible for coverage / NA,No,2
+276,Not applicable to me,Possibly,Not applicable to me,0,Yes,6,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,"No, I only became aware later",Some did,Yes,Maybe,2
+277,Often,Don't Know,Not applicable to me,0,I don't know,9,6,Somewhat easy,100-500,Maybe/Not sure,Some of my previous supervisors,"No, I only became aware later",I don't know,Yes,No,0
+278,Often,Yes,Often,1,I don't know,8,3,Somewhat easy,More than 1000,No,Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,No,2
+279,Often,No,Not applicable to me,0,I don't know,6,6,Somewhat easy,26-100,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,No,1
+280,Sometimes,Yes,Rarely,1,I don't know,9,5,Neither easy nor difficult,6-25,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,No,No,2
+281,Often,No,Sometimes,1,I don't know,6,7,Somewhat easy,500-1000,"Yes, I observed","No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+282,Sometimes,Don't Know,Sometimes,1,Yes,6,6,Somewhat easy,100-500,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,1
+283,Often,Yes,Sometimes,1,Yes,10,10,Very easy,26-100,"Yes, I observed",I don't know,N/A (was not aware),I don't know,Yes,No,2
+284,Often,Possibly,Sometimes,1,Yes,7,5,Somewhat easy,6-25,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+285,Not applicable to me,No,Not applicable to me,0,No,7,7,Very easy,100-500,"Yes, I observed","Yes, all of my previous supervisors",I was aware of some,Some did,Yes,No,0
+286,Not applicable to me,Don't Know,Not applicable to me,0,No,5,5,Very easy,6-25,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,0
+287,Sometimes,Possibly,Rarely,1,No,7,8,Somewhat easy,100-500,"Yes, I observed",Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,Maybe,2
+288,Often,Yes,Rarely,1,Yes,10,6,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+289,Not applicable to me,No,Not applicable to me,0,No,10,10,Very easy,6-25,No,"Yes, all of my previous supervisors",N/A (was not aware),I don't know,I don't know,Yes,0
+290,Not applicable to me,No,Not applicable to me,0,No,0,4,Difficult,6-25,No,Some of my previous supervisors,N/A (was not aware),I don't know,I don't know,No,0
+291,Sometimes,Yes,Rarely,1,Yes,10,5,Difficult,500-1000,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,Maybe,2
+292,Sometimes,Yes,Rarely,1,I don't know,9,7,I don't know,More than 1000,Maybe/Not sure,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,Maybe,2
+293,Not applicable to me,Possibly,Not applicable to me,0,Yes,8,5,I don't know,6-25,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,2
+294,Often,Yes,Sometimes,1,Yes,8,10,Somewhat difficult,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+295,Rarely,Yes,Never,1,Yes,6,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+296,Rarely,Yes,Never,1,Yes,7,8,Very easy,100-500,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+297,Sometimes,Yes,Rarely,1,Yes,10,7,I don't know,More than 1000,No,Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,No,2
+298,Often,Yes,Rarely,1,Yes,5,7,Neither easy nor difficult,500-1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+299,Often,Yes,Sometimes,1,Yes,8,2,Somewhat difficult,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+300,Not applicable to me,No,Not applicable to me,0,I don't know,1,5,Very easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,"Yes, they all did",I don't know,No,0
+301,Not applicable to me,Possibly,Not applicable to me,0,No,7,9,Very easy,26-100,No,Some of my previous supervisors,N/A (none offered),"No, none did",Yes,Maybe,0
+302,Often,Yes,Often,1,I don't know,3,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+303,Not applicable to me,No,Not applicable to me,0,No,7,4,Somewhat easy,500-1000,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,"Yes, they all did",No,Maybe,0
+304,Often,Yes,Often,1,Yes,9,7,Somewhat difficult,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+305,Sometimes,Yes,Sometimes,1,Yes,8,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+306,Not applicable to me,Don't Know,Not applicable to me,1,Yes,2,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,1
+307,Sometimes,Yes,Rarely,1,Yes,8,9,Somewhat easy,500-1000,No,"No, none of my previous supervisors",N/A (was not aware),Some did,Yes,No,2
+308,Often,Yes,Often,1,I don't know,7,6,I don't know,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+309,Often,Yes,Rarely,1,I don't know,10,5,I don't know,More than 1000,No,"No, none of my previous supervisors",I was aware of some,Some did,Yes,Maybe,2
+310,Sometimes,No,Not applicable to me,1,I don't know,6,4,Somewhat easy,6-25,No,Some of my previous supervisors,N/A (was not aware),I don't know,Not eligible for coverage / NA,No,2
+311,Not applicable to me,No,Not applicable to me,0,No,6,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,Maybe,0
+312,Sometimes,Possibly,Not applicable to me,0,I don't know,9,6,I don't know,More than 1000,"Yes, I observed","Yes, all of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,2
+313,Often,Possibly,Sometimes,1,I don't know,2,8,Difficult,More than 1000,Maybe/Not sure,I don't know,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+314,Often,Possibly,Sometimes,1,No,10,0,I don't know,100-500,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),"No, none did",No,Maybe,2
+315,Often,Yes,Often,1,Yes,8,7,Somewhat easy,100-500,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,Maybe,2
+316,Not applicable to me,No,Not applicable to me,0,No,10,10,Very easy,26-100,No,"Yes, all of my previous supervisors","Yes, I was aware of all of them",Some did,Not eligible for coverage / NA,Yes,0
+317,Not applicable to me,No,Not applicable to me,0,No,8,5,Somewhat easy,100-500,No,Some of my previous supervisors,N/A (none offered),I don't know,I don't know,Maybe,0
+318,Not applicable to me,No,Not applicable to me,0,No,10,10,Very easy,6-25,No,Some of my previous supervisors,N/A (was not aware),I don't know,No,No,1
+319,Not applicable to me,No,Not applicable to me,0,No,6,8,Somewhat easy,6-25,"Yes, I observed","No, none of my previous supervisors",N/A (was not aware),"No, none did",Yes,Maybe,0
+320,Not applicable to me,Yes,Often,1,No,10,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+321,Not applicable to me,No,Not applicable to me,0,I don't know,7,5,Somewhat easy,6-25,No,I don't know,"No, I only became aware later","No, none did",No,Maybe,0
+322,Not applicable to me,Possibly,Not applicable to me,0,Yes,8,8,Very easy,6-25,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+323,Not applicable to me,No,Not applicable to me,0,No,4,7,Somewhat easy,6-25,Maybe/Not sure,I don't know,N/A (was not aware),I don't know,Not eligible for coverage / NA,No,0
+324,Not applicable to me,Don't Know,Not applicable to me,0,I don't know,3,6,Difficult,6-25,No,"No, none of my previous supervisors",N/A (was not aware),Some did,Yes,No,2
+325,Sometimes,Yes,Never,1,I don't know,10,4,I don't know,500-1000,No,"No, none of my previous supervisors",N/A (none offered),"No, none did",No,No,2
+326,Not applicable to me,Don't Know,Not applicable to me,0,Yes,2,1,I don't know,500-1000,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+327,Sometimes,Yes,Not applicable to me,1,Yes,8,8,Somewhat difficult,26-100,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+328,Often,Yes,Rarely,1,Yes,8,8,Very easy,6-25,No,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",No,Maybe,2
+329,Not applicable to me,Possibly,Not applicable to me,0,No,7,7,Somewhat easy,26-100,"Yes, I experienced",Some of my previous supervisors,N/A (was not aware),I don't know,Yes,Maybe,0
+330,Often,Possibly,Sometimes,1,Yes,10,9,Somewhat easy,100-500,"Yes, I experienced",Some of my previous supervisors,N/A (was not aware),"No, none did",Yes,Maybe,2
+331,Often,Yes,Sometimes,1,Yes,10,5,Somewhat easy,500-1000,"Yes, I experienced","No, none of my previous supervisors",I was aware of some,Some did,Yes,Maybe,2
+332,Not applicable to me,No,Not applicable to me,0,No,5,3,Very easy,6-25,No,I don't know,N/A (was not aware),I don't know,I don't know,Maybe,0
+333,Often,Yes,Rarely,1,Yes,10,5,Neither easy nor difficult,6-25,"Yes, I experienced",Some of my previous supervisors,N/A (none offered),"No, none did",No,Maybe,2
+334,Rarely,Yes,Rarely,0,Yes,8,7,Very easy,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+335,Often,Yes,Rarely,1,Yes,0,6,Somewhat difficult,More than 1000,No,"No, none of my previous supervisors",I was aware of some,Some did,No,No,2
+336,Often,Yes,Sometimes,1,I don't know,10,5,Very easy,26-100,"Yes, I observed",Some of my previous supervisors,N/A (was not aware),I don't know,Not eligible for coverage / NA,Yes,2
+337,Sometimes,No,Not applicable to me,0,I don't know,6,8,I don't know,500-1000,No,I don't know,N/A (none offered),"No, none did",Not eligible for coverage / NA,No,2
+338,Sometimes,Yes,Not applicable to me,0,I don't know,8,6,I don't know,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+339,Often,Yes,Often,1,I don't know,8,6,I don't know,500-1000,No,Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
+340,Often,Yes,Rarely,1,I don't know,10,7,Very easy,26-100,"Yes, I experienced","No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+341,Often,Don't Know,Sometimes,1,I don't know,7,9,Somewhat easy,500-1000,No,I don't know,N/A (was not aware),I don't know,Yes,Maybe,2
+342,Often,Yes,Rarely,1,Yes,10,8,Very easy,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+343,Sometimes,Yes,Sometimes,1,Yes,1,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors","Yes, I was aware of all of them","No, none did",Yes,No,2
+344,Often,Possibly,Rarely,1,I don't know,8,9,Very easy,100-500,No,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,No,2
+345,Often,Yes,Sometimes,1,Yes,8,7,Somewhat easy,100-500,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
+346,Sometimes,Yes,Never,1,Yes,8,10,I don't know,6-25,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+347,Often,Yes,Sometimes,1,Yes,8,5,Very easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,2
+348,Rarely,No,Rarely,1,I don't know,10,5,I don't know,100-500,No,"Yes, all of my previous supervisors",N/A (none offered),"No, none did",No,Maybe,2
+349,Sometimes,Possibly,Sometimes,1,I don't know,8,6,Somewhat easy,6-25,No,"Yes, all of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,2
+350,Often,Yes,Sometimes,1,I don't know,5,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+351,Often,Yes,Often,1,Yes,2,4,Neither easy nor difficult,100-500,Maybe/Not sure,"No, none of my previous supervisors","Yes, I was aware of all of them","No, none did",No,No,2
+352,Often,Possibly,Sometimes,1,No,10,7,Very easy,26-100,"Yes, I experienced","No, none of my previous supervisors","No, I only became aware later","No, none did",No,Maybe,2
+353,Not applicable to me,No,Not applicable to me,0,No,10,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,"Yes, I was aware of all of them","Yes, they all did",Yes,No,0
+354,Not applicable to me,No,Not applicable to me,0,No,10,8,Very easy,26-100,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,I don't know,Yes,0
+355,Not applicable to me,No,Not applicable to me,0,No,5,0,I don't know,100-500,"Yes, I observed",Some of my previous supervisors,N/A (was not aware),I don't know,I don't know,No,0
+356,Often,Yes,Rarely,1,No,6,8,Somewhat easy,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Yes,2
+357,Often,Yes,Rarely,1,Yes,5,5,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
+358,Not applicable to me,No,Not applicable to me,0,Yes,5,5,Very easy,26-100,No,"Yes, all of my previous supervisors",I was aware of some,"Yes, they all did",I don't know,No,0
+359,Not applicable to me,No,Not applicable to me,0,No,10,3,I don't know,26-100,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,Maybe,0
+360,Not applicable to me,No,Not applicable to me,0,Yes,3,0,I don't know,26-100,No,I don't know,N/A (none offered),"No, none did",I don't know,No,0
+361,Often,Yes,Sometimes,1,I don't know,9,7,Somewhat difficult,100-500,"Yes, I observed",Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
+362,Sometimes,Don't Know,Never,1,Yes,9,8,Difficult,26-100,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+363,Often,Yes,Rarely,1,I don't know,9,8,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,"No, I only became aware later","Yes, they all did",Yes,No,2
+364,Often,Possibly,Sometimes,1,Yes,10,7,I don't know,100-500,No,"Yes, all of my previous supervisors",N/A (none offered),"No, none did",I don't know,No,2
+365,Not applicable to me,Possibly,Not applicable to me,0,No,7,6,Somewhat easy,26-100,No,Some of my previous supervisors,"No, I only became aware later",Some did,Yes,Maybe,0
+366,Often,Yes,Sometimes,1,Yes,8,5,Somewhat easy,100-500,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,"Yes, they all did",Yes,No,2
+367,Often,Yes,Rarely,1,I don't know,9,6,Neither easy nor difficult,26-100,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+368,Not applicable to me,No,Not applicable to me,0,No,6,7,I don't know,26-100,No,I don't know,N/A (was not aware),I don't know,I don't know,No,0
+369,Often,Yes,Sometimes,1,Yes,8,3,Difficult,More than 1000,No,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+370,Not applicable to me,No,Not applicable to me,0,No,5,5,Somewhat easy,More than 1000,I've always been self-employed,Some of my previous supervisors,I was aware of some,Some did,Yes,No,1
+371,Sometimes,No,Sometimes,0,I don't know,8,2,Somewhat easy,6-25,Maybe/Not sure,I don't know,N/A (was not aware),"No, none did",No,Maybe,0
+372,Often,Yes,Rarely,1,Yes,9,5,Somewhat easy,More than 1000,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+373,Often,Possibly,Often,0,Yes,3,6,I don't know,6-25,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),"No, none did",No,Maybe,2
+374,Often,Yes,Sometimes,1,I don't know,5,8,Very easy,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+375,Sometimes,Possibly,Not applicable to me,0,Yes,3,9,I don't know,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+376,Sometimes,Possibly,Rarely,1,Yes,7,7,Somewhat easy,100-500,"Yes, I experienced","No, none of my previous supervisors",I was aware of some,Some did,Yes,No,2
+377,Often,Yes,Rarely,1,Yes,9,8,Somewhat easy,More than 1000,"Yes, I observed",Some of my previous supervisors,N/A (was not aware),I don't know,Yes,Maybe,2
+378,Sometimes,Yes,Yes,Yes,1,Yes,5,Somewhat easy,100-500,No,Physical health,Some did,1,Yes,I am over 60 and would bring it up to assure them of my overall good physical health.,1
+379,Not applicable to me,Possibly,Not applicable to me,1,I don't know,7,3,Difficult,More than 1000,No,"No, none of my previous supervisors",I was aware of some,Some did,Not eligible for coverage / NA,No,2
+380,Not applicable to me,No,Not applicable to me,0,I don't know,5,5,Difficult,100-500,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,0
+381,Often,Yes,Sometimes,1,Yes,10,5,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
+382,Often,Yes,Rarely,1,No,3,1,Somewhat difficult,More than 1000,"Yes, I observed","No, none of my previous supervisors",I was aware of some,"Yes, they all did",Yes,No,2
+383,Often,Yes,Sometimes,1,I don't know,8,7,Neither easy nor difficult,More than 1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+384,Not applicable to me,No,Not applicable to me,0,Yes,4,2,Difficult,100-500,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,Not eligible for coverage / NA,No,2
+385,Not applicable to me,No,Not applicable to me,0,No,6,5,Neither easy nor difficult,26-100,Maybe/Not sure,"No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,Maybe,1
+386,Sometimes,Yes,Rarely,1,Yes,10,8,Very easy,100-500,"Yes, I experienced",Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,Yes,2
+387,Sometimes,Yes,Rarely,1,No,4,5,Difficult,6-25,No,Some of my previous supervisors,I was aware of some,Some did,No,No,2
+388,Not applicable to me,No,Not applicable to me,0,Yes,6,5,Somewhat easy,More than 1000,Maybe/Not sure,"Yes, all of my previous supervisors",N/A (was not aware),I don't know,Yes,Maybe,1
+389,Often,Yes,Often,1,Yes,7,8,I don't know,More than 1000,No,"No, none of my previous supervisors",N/A (was not aware),"No, none did",I don't know,No,2
+390,Often,Yes,Rarely,1,Yes,10,7,I don't know,100-500,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+391,Rarely,Possibly,Rarely,0,No,7,7,I don't know,26-100,Maybe/Not sure,"No, none of my previous supervisors","No, I only became aware later",Some did,Not eligible for coverage / NA,No,0
+392,Often,Yes,Often,1,Yes,9,10,Somewhat difficult,500-1000,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,2
+393,Not applicable to me,No,Not applicable to me,0,Yes,1,2,Difficult,More than 1000,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,I don't know,No,0
+394,Not applicable to me,No,Not applicable to me,0,Yes,6,8,Somewhat easy,6-25,Maybe/Not sure,I don't know,N/A (none offered),I don't know,I don't know,No,1
+395,Often,Yes,Rarely,1,Yes,6,8,Neither easy nor difficult,More than 1000,"Yes, I observed",Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+396,Sometimes,Yes,Rarely,1,Yes,10,7,Very easy,More than 1000,"Yes, I experienced","No, none of my previous supervisors",N/A (none offered),"No, none did",Yes,No,2
+397,Often,Yes,Often,1,I don't know,8,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors","Yes, I was aware of all of them",Some did,Yes,No,2
+398,Sometimes,Possibly,Rarely,1,I don't know,7,7,I don't know,100-500,Maybe/Not sure,"No, none of my previous supervisors",N/A (was not aware),I don't know,Yes,No,2
+399,Not applicable to me,No,Not applicable to me,0,No,3,4,Very easy,26-100,No,Some of my previous supervisors,I was aware of some,Some did,I don't know,Maybe,0
+400,Not applicable to me,No,Not applicable to me,0,I don't know,6,5,Somewhat easy,More than 1000,I've always been self-employed,Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,0
+401,Often,Yes,Not applicable to me,1,Yes,1,5,Somewhat easy,More than 1000,No,"No, none of my previous supervisors","Yes, I was aware of all of them",Some did,Yes,No,2
+402,Rarely,Yes,Not applicable to me,1,No,2,6,Neither easy nor difficult,26-100,"Yes, I observed","No, none of my previous supervisors",N/A (was not aware),Some did,Yes,Maybe,2
+403,Often,Yes,Often,1,Yes,4,5,Difficult,100-500,No,Some of my previous supervisors,N/A (none offered),"No, none did",I don't know,No,2
+404,Often,Yes,Sometimes,1,Yes,7,10,Somewhat easy,26-100,"Yes, I experienced",Some of my previous supervisors,I was aware of some,Some did,Yes,Maybe,2
+405,Not applicable to me,No,Not applicable to me,0,No,5,0,Somewhat difficult,26-100,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,0
+406,Often,Yes,Sometimes,1,Yes,0,9,Difficult,26-100,Maybe/Not sure,"Yes, all of my previous supervisors",N/A (was not aware),I don't know,No,Maybe,2
+407,Sometimes,Yes,Never,1,I don't know,0,0,Somewhat easy,1-5,No,"No, none of my previous supervisors",I was aware of some,Some did,Not eligible for coverage / NA,No,2
+408,Sometimes,Possibly,Sometimes,1,I don't know,8,3,Somewhat easy,More than 1000,Maybe/Not sure,Some of my previous supervisors,I was aware of some,Some did,I don't know,No,2
+409,Often,Yes,Sometimes,1,I don't know,5,5,Somewhat easy,More than 1000,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+410,Not applicable to me,No,Not applicable to me,0,Yes,10,5,Very easy,100-500,"Yes, I observed","No, none of my previous supervisors","Yes, I was aware of all of them",Some did,Yes,No,0
+411,Sometimes,Yes,Sometimes,1,I don't know,10,6,Somewhat easy,6-25,Maybe/Not sure,I don't know,N/A (none offered),"No, none did",Yes,Maybe,2
+412,Not applicable to me,Possibly,Not applicable to me,1,Yes,5,2,Very easy,6-25,No,Some of my previous supervisors,N/A (none offered),"No, none did",I don't know,No,0
+413,Often,Yes,Sometimes,1,Yes,8,6,Difficult,100-500,No,Some of my previous supervisors,I was aware of some,"Yes, they all did",Yes,No,2
+414,Often,Possibly,Not applicable to me,1,I don't know,8,8,I don't know,100-500,No,Some of my previous supervisors,I was aware of some,Some did,Yes,No,2
+415,Sometimes,Possibly,Sometimes,0,I don't know,7,0,Somewhat easy,6-25,Maybe/Not sure,Some of my previous supervisors,N/A (was not aware),I don't know,Yes,Yes,2
+416,Often,Yes,Rarely,1,I don't know,10,10,I don't know,More than 1000,Maybe/Not sure,Some of my previous supervisors,"Yes, I was aware of all of them",Some did,Yes,No,2
