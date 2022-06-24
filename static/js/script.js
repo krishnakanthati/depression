@@ -199,7 +199,7 @@ $(function () {
       if (questionNo + 1 > q.length) {
         var xhr = new XMLHttpRequest();
         console.log(req);
-        xhr.open("POST", "http://depression-screening.herokuapp.com//screen2", false);
+        xhr.open("POST", "http://depression-screening.herokuapp.com/screen2", false);
         xhr.setRequestHeader("Content-Type", "application/json");
         xhr.setRequestHeader(
           "Access-Control-Allow-Origin",

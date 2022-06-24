@@ -1,16 +1,11 @@
-import json
 import flask
 from flask_cors import CORS, cross_origin
 import pickle
 import numpy as np
 import pandas as pd
 from pymongo import MongoClient
-from bson import json_util
-import sentry_sdk
-from sentry_sdk.integrations.flask import FlaskIntegration
-from sentry_sdk import capture_exception
 import urllib.parse
-from flask import url_for, redirect, render_template
+from flask import render_template
 username = urllib.parse.quote_plus('kris')
 password = urllib.parse.quote_plus('@Krishna8')
 
@@ -113,6 +108,11 @@ def r0():
 @app.route('/about')
 def about():
     return render_template('about.html')
+
+
+@app.route('/dashboard')
+def dashboard():
+    return "Hello"
 
 
 if __name__ == "__main__":

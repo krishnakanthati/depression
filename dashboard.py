@@ -1,14 +1,9 @@
 import dash
 from dash import dcc
-# from dash import dcc
 from dash import html
-# from dash import html
 import pandas as pd
 import plotly.graph_objects as go
-import numpy as np
 from pymongo import MongoClient
-from bson import json_util
-import json
 import plotly.express as px
 import urllib.parse
 username = urllib.parse.quote_plus('kris')
