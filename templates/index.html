@@ -128,10 +128,41 @@
                         </a>
                     
                     </div>
+                    
 
-                    <a href="{{ url_for('quiz') }}" style="text-decoration: none;"><button type="button" class="btn btn-success btn-block rounded-0">TAKE QUIZ</button></a><br>
+                    <div
+                    class="btn-group col-12"
+                    role="group"
+                    aria-label="Basic example"
+                  >
+                    <a
+                      href="{{ url_for('quiz') }}"
+                      class="btn btn-primary col-6"
+                      >TAKE QUIZ</a
+                    >
+                    <a
+                      href="{{ url_for('text') }}"
+                      class="btn btn-primary col-6"
+                      >TEXT ANALYSIS</a
+                    >
+                  </div><br><br>
+                  <div
+                    class="btn-group col-12"
+                    role="group"
+                    aria-label="Basic example"
+                  >
+                    <a
+                      href="http://screening-dashboard.herokuapp.com/"
+                      class="btn btn-danger col-12"
+                      >DASHBOARD</a
+                    >
+                  </div>
+                  <br /><br />
 
-                    <a href="http://screening-dashboard.herokuapp.com/" style="text-decoration: none;"><button type="button" class="btn btn-danger btn-block rounded-0">DASHBOARD</button></a><br>
+                    <!-- <a href="{{ url_for('quiz') }}" style="text-decoration: none;"><button type="button" class="btn btn-success btn-block rounded-0">TAKE QUIZ</button></a><br> -->
+
+
+                    <!-- <a href="http://screening-dashboard.herokuapp.com/" style="text-decoration: none;"><button type="button" class="btn btn-danger btn-block rounded-0">DASHBOARD</button></a><br> -->
 
                     <p>The data from questionnaire is fed to a highly accurate machine learning model to detect level of depression. Since it uses machine learning, our results are generalized and is not hard coded. This allows us to consider many factors into account to decide upon the level of depression.</p>
                     <p>The response of the questionnaire will be recorded to further enhance the model and research into the model behavior. Do note that we do not take any personally identifiable information in any form such as cookies. This is really important to ensure privacy and anonymity. It also allows the users to answer questions more freely.</p>

@@ -5,7 +5,8 @@ import numpy as np
 import pandas as pd
 from pymongo import MongoClient
 import urllib.parse
-from flask import render_template
+from flask import render_template, request
+from textblob import TextBlob
 username = urllib.parse.quote_plus('kris')
 password = urllib.parse.quote_plus('@Krishna8')
 
@@ -88,6 +89,26 @@ def home():
 @app.route('/quiz')
 def quiz():
     return render_template('quiz.html')
+
+
+@app.route('/text')
+def text():
+    return render_template('text.html')
+
+
+@app.route('/text', methods=['POST'])
+def analyse():
+    text = request.form['analyse']
+    res = TextBlob(text)
+
+    if res.sentiment.polarity < 0:
+        result = "Negative"
+    elif res.sentiment.polarity == 0:
+        result = "Neutral"
+    else:
+        result = "Positive"
+
+    return render_template("text.html", result=result + " ( " + str(res.sentiment.polarity) + " ) ")
 
 
 @app.route('/r2')

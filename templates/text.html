@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Home</title>
+        <!-- Bootstrap core CSS -->
+        <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+        <link href="../static/cover.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    </head>
+
+    <body>
+        <div class="row justify-content-center">
+            <div class="col col-sm-12">
+            <div class="row navrow justify-content-center align-items-center">
+                
+                <div class="col col-lg-8">
+                    
+                    <div class="d-flex d1">THE IT INDUSTRY DEPRESSION TEST</div>
+
+                </div>
+                
+                <div class="col col-6 col-lg-1">
+                <div class="row">
+                <div class="col d-flex justify-content-end">
+
+                    <a href="{{ url_for('home') }}">
+                        
+                        <button
+
+                            class="
+                                btn 
+                                btn-sm 
+                                btn-light 
+                                rounded-0 
+                                border-0 
+                                pl-4 
+                                pr-4">
+                            
+                            <i class="
+                                fa 
+                                fa-home">
+                            </i>
+
+                        </button>
+
+                    </a>
+
+                </div>
+                </div>
+                </div>
+
+            </div>
+            </div>
+            </div>
+
+        <h1 class="d-flex align-items-center justify-content-center">Text Analysis</h1>
+        <form class="container" method="POST">
+            <div class="mb-3">
+              <label for="example" class="form-label">Describe your recent experience.</label>
+              <input type="text" name="analyse" class="form-control font-weight-bold" id="example" aria-describedby="textHelp" minlength="50" placeholder="Describe your experience in atleast 50 characters.">
+              <div id="textlHelp" class="form-text">How are you feeling now</div>
+            </div>
+            <button type="submit" class="btn btn-primary col-12">Analyse</button>
+            
+          </form>
+          <br>
+          <h1 class="text-center">{{result}}</h1>
+        
+
+        <!-- Bootstrap core JavaScript -->
+        <!-- Placed at the end of the document so the pages load faster -->
+
+        <script src="../static/js/jquery.min.js"></script>
+        <script src="../static/js/popper.js"></script>
+        <script src="../static/bootstrap/js/bootstrap.min.js"></script>
+
+    </body>
+
+</html>
